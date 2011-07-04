@@ -1,10 +1,4808 @@
 [
 	{
-[
+		"city": "Goiânia / GO",
+		"postal_code": "",
+		"name": "A AMBIENTAL - Cooperativa dos Coletores de Material Reciclável",
+		"district": "Chacara Samambaia",
+		"address": "R. Jandaiá, ch16",
+		"lat_long": "-16.6777153,-49.2676296",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
 	{
-[
+		"city": "Nova Olinda / CE",
+		"postal_code": "63165000",
+		"name": "AARNO- Associação dos Agentes Ambientais Recicladores de Nova Olinda",
+		"district": "Nova Olinda",
+		"address": "Rua Vicente Pereira, 141",
+		"lat_long": "-1.2960089,-47.9401167",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
 	{
-[
+		"city": "Dois Vizinhos / PR",
+		"postal_code": "85660000",
+		"name": "ACAMAR -  Assosiação de Catadores de Material Reciclado",
+		"district": "Centro",
+		"address": "AV.DEDI BARICHELLO MONTAGER N1279",
+		"lat_long": "-25.7345636,-53.0585108",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Óleo, Eletrônicos"
+	},
 	{
-[
+		"city": "Lavras / MG",
+		"postal_code": "37200000",
+		"name": "ACAMAR - Associação dos Catadores de Materiais Recicláveis",
+		"district": "",
+		"address": "Silvio Modesto de Souza, 540.",
+		"lat_long": "-21.245737,-44.9997792",
+		"material": "Plástico, Metal, Vidro, Madeira"
+	},
 	{
+		"city": "Cariacica / ES",
+		"postal_code": "29140000",
+		"name": "ACAMARP - Associação Beneficente de Catadores de Mat. Recicláveis de N",
+		"district": "Nova Rosa da Penha II",
+		"address": "Rua Trinta e Cinco, SN",
+		"lat_long": "-20.2394804,-40.3726421",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81350160",
+		"name": "ACAMPA - Ass. dos Catadores de Mat. Recicláveis Parceiros do Meio Ambi",
+		"district": "Bairro CIC",
+		"address": "Av. Pres. Juscelino Kubtscheck de Oliveira, 7161",
+		"lat_long": "-25.4283563,-49.2732515",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Belem / PA",
+		"postal_code": "66077110",
+		"name": "Ação Cidadania para Todos",
+		"district": "Aurá",
+		"address": "estrada Santana do Aurá",
+		"lat_long": "-1.4012232,-48.3710524",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Poços de Caldas / MG",
+		"postal_code": "37701002",
+		"name": "Ação Reciclar Cooperativa de Trabalhadores de materiais reciclaveis",
+		"district": "Jardim Centenario",
+		"address": "Rua Benedita Azevedo Rodrigues 100",
+		"lat_long": "-21.7883381,-46.562714",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01512010",
+		"name": "AÇÃOCARIDADE",
+		"district": "liberdade",
+		"address": "R Oscar Cintra Gordinho, 185 cj 111",
+		"lat_long": "-23.5528906,-46.6279473",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Fernandópolis / SP",
+		"postal_code": "",
+		"name": "ACARF - Ass. Cat. Rec. Fernandópolis",
+		"district": "Centro",
+		"address": "R. Bahia, 1680",
+		"lat_long": "-20.2834467,-50.2465974",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Alvorada / RS",
+		"postal_code": "94810000",
+		"name": "ACATA-Associaçã de Catadores de Alvorada",
+		"district": "Umbu",
+		"address": "Rua 12 de julho. 538",
+		"lat_long": "-30.0001936,-51.0784504",
+		"material": "Plástico, Metal, Papel, Vidro, Lâmpadas, Madeira"
+	},
+	{
+		"city": "Belém / PA",
+		"postal_code": "",
+		"name": "ACCSB - Assoc. Catad. Da Coleta Seletiva de Belém",
+		"district": "",
+		"address": "Trav. Padre Eutiquio s/n (entre trav. Quintino Bocaiuva e São Miguel)",
+		"lat_long": "-1.4550205,-48.5023682",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Palmital / SP",
+		"postal_code": "19970000",
+		"name": "ACIPAL",
+		"district": "Paraná",
+		"address": "Rua José Paulino,13",
+		"lat_long": "-22.7917963,-50.2049562",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Borracha"
+	},
+	{
+		"city": "Chapecó / SC",
+		"postal_code": "89801014",
+		"name": "ACMARC - Associação de Catadores de Chapecó",
+		"district": "Centro",
+		"address": "Travessa Ilma Rosa de N~es, 91 D",
+		"lat_long": "-27.0967814,-52.6186069",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Florianópolis / SC",
+		"postal_code": "",
+		"name": "ACMR - Associação de Coletores de Material Reciclável do Centro",
+		"district": "",
+		"address": "Rodovia Admar Gonzaga, Km zero",
+		"lat_long": "-27.5777459,-48.5120491",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Guarujá / SP",
+		"postal_code": "11444540",
+		"name": "Sociedade Amigos do Bairro da Maré Mansa",
+		"district": "Pr. Pernambuco-",
+		"address": "Rua 11, nr 79, Maré Mansa",
+		"lat_long": "-23.9946009,-46.256867",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Borracha"
+	},
+	{
+		"city": "Fortaleza / CE",
+		"postal_code": "60310-690",
+		"name": "Sociedade Recicladora Pirambu",
+		"district": "Pirambu",
+		"address": "Rua Serafim , 8A",
+		"lat_long": "-3.7147423,-38.5435293",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Passo Fundo / RS",
+		"postal_code": "",
+		"name": "SOCREBE",
+		"district": "",
+		"address": "Av João Catapan, 1297",
+		"lat_long": "-28.2800401,-52.428877",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Recanto das Emas / DF",
+		"postal_code": "72631210",
+		"name": "Superação Cooperativa de Coleta Seletiva e Reciclagem de Resíduos Sóli",
+		"district": "Centro",
+		"address": "Quadra 406 conj j lt 14",
+		"lat_long": "-15.9231745,-48.1016402",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Tecido, Madeira"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03077-000",
+		"name": "Tiquatira",
+		"district": "",
+		"address": "Av. Elizabete Condessa Rubiana, 2002",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Contagem / MG",
+		"postal_code": "",
+		"name": "Trabalhando com Materiais Recicláveis por um Mundo Melhor- Tramar",
+		"district": "São Joaquim",
+		"address": "Rua Turqueza, 709",
+		"lat_long": "-19.8785357,-44.0233575",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Avaré / SP",
+		"postal_code": "",
+		"name": "Uniccop - Cooperativa de Lixo Reciclável de Avaré SP",
+		"district": "",
+		"address": "Av. Presidente Kenedy, 840",
+		"lat_long": "-23.68408,-46.6328891",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "06789000",
+		"name": "Volts Eletrônicos",
+		"district": "Jardim Miriam",
+		"address": "Rua Paulo Carvalho",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Metal, Pilha, Bateria, Eletrônicos"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03576040",
+		"name": "intermedios",
+		"district": "jardim santa maria",
+		"address": "rua",
+		"lat_long": "-21.1990984,-50.4499785",
+		"material": "Plástico"
+	},
+	{
+		"city": "Mogi Guaçu / SP",
+		"postal_code": "13840125",
+		"name": "Jovan comercio Embalagens",
+		"district": "jardim jacyra",
+		"address": "rua irineu franco de godoy 196",
+		"lat_long": "-22.3708462,-46.9378434",
+		"material": "Plástico"
+	},
+	{
+		"city": "Mogi Guaçu / SP",
+		"postal_code": "13840000",
+		"name": "JS Recicle Plásticos Ltda",
+		"district": "Vila Leila",
+		"address": "Rua Adelina Simões Signoretti, 99",
+		"lat_long": "-22.3708462,-46.9378434",
+		"material": "Plástico"
+	},
+	{
+		"city": "Suzano / SP",
+		"postal_code": "08630070",
+		"name": "kaes reciclagem comercio de sucatas digitais ltda",
+		"district": "palmeiras",
+		"address": "rua do corrego 05",
+		"lat_long": "-23.6573857,-46.3204795",
+		"material": "Plástico, Metal, Bateria, Eletrônicos"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "41830130",
+		"name": "KILOLIXO",
+		"district": "Candeal",
+		"address": "Alameda Anturias, n.º 148/ 1202",
+		"lat_long": "-12.9939442,-38.4810498",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Itapevi / SP",
+		"postal_code": "06693220",
+		"name": "LASBRA - LEGIÃO DE ASSITENCIA SOCIAL BRASILEIRA",
+		"district": "Jardim Dona Elvira",
+		"address": "Rua Osvaldo Francisco nº 211A",
+		"lat_long": "-23.5492024,-46.9372903",
+		"material": "Plástico, Metal, Pneu, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04455250",
+		"name": "Leandro alves camasso - ME",
+		"district": "jd marajoara",
+		"address": "Rua",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Maraú / BA",
+		"postal_code": "45520000",
+		"name": "Marau Limpo Reciclagem",
+		"district": "barra grande",
+		"address": "Loteamento Barra dos Três Coqueiros Lote 1, número 5",
+		"lat_long": "-14.1154266,-38.9932685",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Cachoeirinha / RS",
+		"postal_code": "94930590",
+		"name": "Maria Janar da Silva Santos (cooperativa)",
+		"district": "Distrito Industrial",
+		"address": "Rua Gildo de Freitas, 180",
+		"lat_long": "-29.9476854,-51.0954003",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Betim / MG",
+		"postal_code": "",
+		"name": "Metal Puro Indústria e Comércio ltda",
+		"district": "Jardim Piemonte",
+		"address": "Rua",
+		"lat_long": "-19.9675657,-44.1991428",
+		"material": "Plástico"
+	},
+	{
+		"city": "Cascavel / PR",
+		"postal_code": "85819-250",
+		"name": "Millennium Comércio de Aparas Ltda",
+		"district": "Turisparque",
+		"address": "Rua Sociologia, 113",
+		"lat_long": "-24.9554503,-53.4552361",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Barroso / MG",
+		"postal_code": "03621200",
+		"name": "MLJ Reciclagens",
+		"district": "Rosário",
+		"address": "Rua da Estação, s/n",
+		"lat_long": "-21.1875704,-43.9757005",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Bastos / SP",
+		"postal_code": "1769000",
+		"name": "Mulher virtuoza reciclgem",
+		"district": "centro",
+		"address": "av gaspar ricardo",
+		"lat_long": "-21.921373,-50.7320547",
+		"material": "Plástico, Metal, Longa Vida, Óleo"
+	},
+	{
+		"city": "araguaina / TO",
+		"postal_code": "77805030",
+		"name": "Natura-Ativa Proteger é Viver",
+		"district": "centro",
+		"address": "Rua Rui Barbosa n 12",
+		"lat_long": "-7.1920745,-48.2077896",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Matéria Orgânica"
+	},
+	{
+		"city": "Cotia / SP",
+		"postal_code": "06700000",
+		"name": "Nova Cotia Recicla",
+		"district": "",
+		"address": "Rua Nova Pátria, 120",
+		"lat_long": "-23.617464,-46.9413056",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Carlos / SP",
+		"postal_code": "13572-000",
+		"name": "Ecoativa",
+		"district": "Vila São José",
+		"address": "Rua Peru, 375",
+		"lat_long": "-23.7278156,-46.6941699",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Barra Bonita / SP",
+		"postal_code": "17340000",
+		"name": "Ecobarra - Cooperativa dos Catadores de Barra Bonita",
+		"district": "Centro",
+		"address": "Avenida Arthur Balsi, 716",
+		"lat_long": "-22.4979741,-48.5514921",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Campo Grande / MS",
+		"postal_code": "",
+		"name": "Ecoplantar",
+		"district": "sao bento",
+		"address": "rua manoel cecilio, 780",
+		"lat_long": "-20.4797063,-54.6044131",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05400-000",
+		"name": "Esperança",
+		"district": "Pirituba",
+		"address": "Rua Itamogi, 358",
+		"lat_long": "-23.479001,-46.723122",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Lorena / SP",
+		"postal_code": "12606001",
+		"name": "Fundação de Apoio a Pesquisa e Ensino",
+		"district": "Vila Zélia",
+		"address": "Avenida Oswaldo Aranha, 1481",
+		"lat_long": "-22.7271525,-45.1199495",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo"
+	},
+	{
+		"city": "Planaltina / DF",
+		"postal_code": "73300000",
+		"name": "fundamental- Cooperativa dos Coletores de Resíduos Sólidos Recicláveis",
+		"district": "Buritis IV",
+		"address": "SRL, Quadra 26 conj  j lt 05",
+		"lat_long": "-15.6166667,-47.6666667",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Viamão / RS",
+		"postal_code": "94750000",
+		"name": "Grupo Atuante de Mulheres de Itapuã",
+		"district": "",
+		"address": "Rua dos Pescadores 360",
+		"lat_long": "-29.9078033,-51.2074298",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Castanheira / MT",
+		"postal_code": "78345000",
+		"name": "GUARACI VIEIRA DE BRITO PREF.MUN.CASTANHEIRA MT",
+		"district": "SANTA RITA",
+		"address": "AV.CAROLINA REZZIERI N.900",
+		"lat_long": "-11.12767,-58.6098953",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "IACE - INSTITUTO DE AÇÃO CULTURAL E ECOLÓGICA",
+		"district": "PIRITUBA",
+		"address": "AV MUTINGA, 1425",
+		"lat_long": "-23.4856387,-46.7402068",
+		"material": "Plástico, Metal, Papel, Longa Vida, Óleo"
+	},
+	{
+		"city": "Duque de Caxias / RJ",
+		"postal_code": "25000000",
+		"name": "Instituto Atitude Responsa de Educação Ambiental - IAR",
+		"district": "Dr. Laureano",
+		"address": "Rua Camurim, 1331",
+		"lat_long": "-22.7639566,-43.2973876",
+		"material": "Óleo"
+	},
+	{
+		"city": "POTENGI / CE",
+		"postal_code": "63160000",
+		"name": "INSTITUTO ATOS (PROJETO ATO VERDE)",
+		"district": "CENTRO",
+		"address": "RUA MONSENHOR ROCHA, 155",
+		"lat_long": "-7.092734,-40.0302579",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "ARARIPE / CE",
+		"postal_code": "63170000",
+		"name": "INSTITUTO ATOS (PROJETO ATO VERDE)",
+		"district": "CENTRO",
+		"address": "RUA DR. MOACIR DE SOUSA ROCHA, S/Nº",
+		"lat_long": "-7.2015837,-40.031868",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "CAMPOS SALES / CE",
+		"postal_code": "63150000",
+		"name": "INSTITUTO ATOS (PROJETO ATO VERDE)",
+		"district": "GUARANI",
+		"address": "RUA DR. CLÓVIS, 677",
+		"lat_long": "-7.0783276,-40.3762574",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Taubaté / SP",
+		"postal_code": "12085080",
+		"name": "INSTITUTO CIDADÃO",
+		"district": "Chacara Silvestre",
+		"address": "Rua Isidoro Nogueira Tinoco, 1400",
+		"lat_long": "-23.0151048,-45.5206217",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Madeira, Matéria Orgânica, Eletrônicos"
+	},
+	{
+		"city": "Palmares / PE",
+		"postal_code": "",
+		"name": "Reciclapet - Associação de Agentes Ambientais dos Palmares",
+		"district": "Centro",
+		"address": "Rua Alto da Estação, SN",
+		"lat_long": "-8.6887492,-35.5912403",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Araucária / PR",
+		"postal_code": "",
+		"name": "Reciclar Araucária - Associação dos Catadores de Materiais Reciclados",
+		"district": "Tupi",
+		"address": "Rua Lótus, 831",
+		"lat_long": "-25.5874164,-49.4049891",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Aparecida de Goiânia / GO",
+		"postal_code": "74919416",
+		"name": "Reciclar Reciclagem de Materiais",
+		"district": "Jd Transbrasiliana",
+		"address": "BR 153, Q5 Km 11 lt 1/2",
+		"lat_long": "-15.7440063,-49.3080947",
+		"material": "Plástico"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05577000",
+		"name": "Reciclázaro",
+		"district": "Butanta",
+		"address": "R. Mariana Belisária Conceição, 93",
+		"lat_long": "-23.5742469,-46.7236754",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Gravatá / PE",
+		"postal_code": "55641-085",
+		"name": "RECICOOP-Cooperativa de Recilagem de Materiais Reaproveitáveis de Grav",
+		"district": "Arruamento Jardim Jura",
+		"address": "Rua Primavera, 71",
+		"lat_long": "-8.209598,-35.5695497",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01507-020",
+		"name": "Recifran - Serviço Fransciscano de Apoio a Reciclagem",
+		"district": "Glicério",
+		"address": "Rua Teixeira Leite, 140",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "Recifran II",
+		"district": "Glicério",
+		"address": "Rua Junqueira Freire, 176",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Umuarama / PR",
+		"postal_code": "87503460",
+		"name": "RECIVALE - Cooperativa Industrial de Reciclagem Vale do Entre Rios Ltd",
+		"district": "Centro",
+		"address": "Rua Perobal, 4131",
+		"lat_long": "-23.7641036,-53.3183606",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Leopoldo / RS",
+		"postal_code": "93000000",
+		"name": "Recivap Reciclagem de Plásticos",
+		"district": "Centro",
+		"address": "Senador Salgado Filho, 662",
+		"lat_long": "-29.7528493,-51.1518551",
+		"material": "Plástico"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "",
+		"name": "Rede de Catadores e Reciclagem Solidária Eco-Recicla",
+		"district": "Ioreni",
+		"address": "Av Grande Circular 2, 2350",
+		"lat_long": "-3.1064093,-60.0264297",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Natal / RN",
+		"postal_code": "59115050",
+		"name": "Rede Mandacaru RN lixo e Cidadania- educação e cultura",
+		"district": "Nsa apresentação",
+		"address": "rua poeta israel botelho 703 - parque dos coqueiros - natal - rn",
+		"lat_long": "-5.7944785,-35.2109531",
+		"material": "Plástico, Metal, Papel, Bateria, Tecido"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "",
+		"name": "RENOVE Reciclagem de Óleos Vegetais",
+		"district": "",
+		"address": "",
+		"lat_long": "-12.9703817,-38.512382",
+		"material": "Óleo"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21402760",
+		"name": "RIOCOOP - COOPERATIVA DE COLETA SELETIVA E RECICLAGEM DE MATERIAIS",
+		"district": "Bonsucesso",
+		"address": "Rua Dezessete de Fevereiro, 408",
+		"lat_long": "-22.8591447,-43.244694",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "08340-000",
+		"name": "São Francisco",
+		"district": "Jardim Vila Carrão",
+		"address": "Rua Cândido Xavier, S/N",
+		"lat_long": "-23.5489138,-46.5403355",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "Americana / SP",
+		"postal_code": "",
+		"name": "Sasá",
+		"district": "Centro",
+		"address": "Av. Bandeirantes, 2395",
+		"lat_long": "-22.7386154,-47.3267779",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05400-000",
+		"name": "Nova Era",
+		"district": "Jaraguá",
+		"address": "Av. Alexil, 48",
+		"lat_long": "-23.45,-46.733333",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "Nova Esperança",
+		"district": "Vl Jacuí - São Miguel",
+		"address": "R. Japichauá, s/n",
+		"lat_long": "-23.4820985,-46.4716568",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itarare / SP",
+		"postal_code": "18460000",
+		"name": "NOVA ESPERANÇA - Cooperativa dos Catadores de Materiais Recicláveis de",
+		"district": "Ponte Alta",
+		"address": "Rodovia dos Maçons, s/n",
+		"lat_long": "-24.1051421,-49.34305",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Carapicuiba / SP",
+		"postal_code": "06396000",
+		"name": "Nucleo de Reciclagem cidade Ariston",
+		"district": "Cidade Ariston",
+		"address": "Av Comendador Dante Carrarro, 3330",
+		"lat_long": "-23.5192226,-46.8367395",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03704000",
+		"name": "Núcleo de Reciclagem Tiquatira",
+		"district": "penha",
+		"address": "Rua kampala",
+		"lat_long": "-23.5177734,-46.5523615",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Nova Serrana / MG",
+		"postal_code": "35519000",
+		"name": "OLIVEIRA COMERCIO E DISTRIBUIÇÃO LTDA",
+		"district": "JARDINS DO LAGO",
+		"address": "RUA ANTONIO ARAUJO 745",
+		"lat_long": "-19.8784694,-44.9844253",
+		"material": "Papel"
+	},
+	{
+		"city": "Joinville / SC",
+		"postal_code": "89227160",
+		"name": "ONG AMBIVERDE",
+		"district": "IRIRU",
+		"address": "SALTO VELOSO 385",
+		"lat_long": "-26.2753569,-48.8267066",
+		"material": "Plástico, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Brasópolis / MG",
+		"postal_code": "37530000",
+		"name": "ONG Grupo Dispersores",
+		"district": "Centro",
+		"address": "Rua Silvestre Ferraz, 245",
+		"lat_long": "-22.4744752,-45.6109433",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Óleo, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Itanhaém / SP",
+		"postal_code": "11740000",
+		"name": "ONG Reciclando A Favor da Vida",
+		"district": "Jd. Iberá",
+		"address": "R Papa João Paulo II - 82",
+		"lat_long": "-24.18346,-46.7894585",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Nossa Senhora do Socorro / SE",
+		"postal_code": "49160000",
+		"name": "ONG Vidarte",
+		"district": "taiçoca",
+		"address": "Av coletora A",
+		"lat_long": "-10.8528736,-37.1453057",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Eletrônicos"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02000-000",
+		"name": "Oportunidade Solidária",
+		"district": "Jardim Felicidade",
+		"address": "Rua Prata16",
+		"lat_long": "-23.6560024,-46.7292292",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01433000",
+		"name": "OXIGENIO DESENVOLVIMENTO DE POLITICAS PUBLICAS E SOCIAIS",
+		"district": "Jd. Paulista",
+		"address": "Esperia, 30",
+		"lat_long": "-23.575337,-46.6681935",
+		"material": "Óleo"
+	},
+	{
+		"city": "Uberlândia / MG",
+		"postal_code": "38402034",
+		"name": "PAPELCAF COMERCIO DE PAPEL",
+		"district": "MARTA HELENA",
+		"address": "R MARIA QUITERIA 31",
+		"lat_long": "-18.8734341,-48.2655844",
+		"material": "Plástico, Papel, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04185000",
+		"name": "Plast Sul Indústria  e Comércio de Artefatos Plásticos Ltda",
+		"district": "V. Liviero",
+		"address": "Rua Giuseppe Arcimboldo, 57",
+		"lat_long": "-23.6495073,-46.5941855",
+		"material": "Plástico"
+	},
+	{
+		"city": "Vilhena / RO",
+		"postal_code": "78995000",
+		"name": "COOPRERON - Cooperativa de Reciclagem do Estado de Rondônia",
+		"district": "Marcos Freire",
+		"address": "Av. Tancredo Neves, nº 1.851",
+		"lat_long": "-12.7340597,-60.1445857",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Madeira, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Luis / MA",
+		"postal_code": "68058-000",
+		"name": "COOPRESL- Cooperativa de Reciclagem de São Luiz",
+		"district": "Anjo da Guarda",
+		"address": "Travessa 29, 50",
+		"lat_long": "-2.5589763,-44.328908",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "",
+		"name": "Cooptramaré Cooperativa dosTrabalhadores do Complexo da Maré",
+		"district": "Centro",
+		"address": "Av. Rio Branco, 43 18° andar",
+		"lat_long": "-22.8996583,-43.1797121",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Igarassu / PE",
+		"postal_code": "53630807",
+		"name": "COOPTRASGI- Cooperativa de Trabalho e Prestação de Serviços de Igarass",
+		"district": "Cruz de Rebouças",
+		"address": "Rua Cautanga, 30 lote bomfim I",
+		"lat_long": "-7.8627624,-34.9093086",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Maceió / AL",
+		"postal_code": "57044130",
+		"name": "COOPVILA",
+		"district": "Jacarecica",
+		"address": "Rua do Livramento S/N – Vila Emater II",
+		"lat_long": "-9.616667,-35.7",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Colombo / PR",
+		"postal_code": "",
+		"name": "COOPZUMBI - Cooperativa de Catadores Zumbi dos Palmares",
+		"district": "Centro Industrial",
+		"address": "R. Shirlei Boeira Souto, 35 A-B",
+		"lat_long": "-25.2930701,-49.2232687",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Salto / SP",
+		"postal_code": "13329600",
+		"name": "Coorbes - Cooperativa de Reciclagem Boa Esperança de Salto",
+		"district": "Olaria",
+		"address": "Av. tranquillo Gianine, 15",
+		"lat_long": "-23.1638656,-47.2809931",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Ouro Fino / MG",
+		"postal_code": "37570000",
+		"name": "COORECICLA - Cooperativa dos Trabalhadores em Coleta de Material Recic",
+		"district": "Varzea",
+		"address": "Rua Caetano Vitor,184",
+		"lat_long": "-22.2837794,-46.3672111",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Pelotas / RS",
+		"postal_code": "96010630",
+		"name": "cooreciclo",
+		"district": "centro",
+		"address": "rua uruguai 2070",
+		"lat_long": "-31.7749105,-52.3488194",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Lâmpadas, Madeira"
+	},
+	{
+		"city": "São Bento do Una / PE",
+		"postal_code": "55370000",
+		"name": "Coores - Cooperativa de Reciclagem São Bento do Una",
+		"district": "Centro",
+		"address": "Rua Doutor João Valença, 128",
+		"lat_long": "-8.5223473,-36.4435088",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01130-000",
+		"name": "COORPEL",
+		"district": "Luz",
+		"address": "Rua 25 de Janeiro, 170",
+		"lat_long": "-23.4892889,-46.3390968",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "São Sebastião do Passé / BA",
+		"postal_code": "43850000",
+		"name": "COOTALIMP - COOPERATIVA DE TRABALHADORES AUTÔNOMOS EM LIMPEZA E MANUTE",
+		"district": "centro",
+		"address": "R. Artur Salustiano, 113",
+		"lat_long": "-12.5138761,-38.4951813",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "23097-200",
+		"name": "COOTRACOM- Cooperativa de Trabalhos Comunitários do Rio de Janeiro",
+		"district": "Mendanha",
+		"address": "Estrada do Guandu, 1122",
+		"lat_long": "-22.9035393,-43.2095869",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "031260001",
+		"name": "Coper Recifavela (Coop. de Catadores Seletivos e Reciclagem da Favela)",
+		"district": "vila prudente",
+		"address": "rua",
+		"lat_long": "-23.5936836,-46.5821179",
+		"material": "Plástico, Papel, Vidro"
+	},
+	{
+		"city": "São Leopoldo / RS",
+		"postal_code": "93130-370",
+		"name": "Coper Recycle",
+		"district": "Campina",
+		"address": "Rua Ferrabraz, 418",
+		"lat_long": "-29.7480872,-51.1595103",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Chapecó / SC",
+		"postal_code": "89807201",
+		"name": "Programa Verde Vida",
+		"district": "Maria Goreti",
+		"address": "R Mal Floriano Peixoto , 2151L",
+		"lat_long": "-27.1001152,-52.5933853",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01137010",
+		"name": "Projeto Boracea",
+		"district": "Bom Retiro",
+		"address": "Rua Norma Piecucini Gianotti,77",
+		"lat_long": "-23.5266667,-46.6375",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03664040",
+		"name": "Projeto Cara Limpa",
+		"district": "Santo Amaro",
+		"address": "Travessa Maestro Massaino,112",
+		"lat_long": "-23.6807532,-46.7640876",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental, Tecido"
+	},
+	{
+		"city": "Jequié / BA",
+		"postal_code": "45200000",
+		"name": "Projeto Cidade Limpa",
+		"district": "jequiezinho",
+		"address": "av vavá lomanto 40",
+		"lat_long": "-13.8510445,-40.0811734",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21040090",
+		"name": "PROJETO SÓCIO - EDUCACIONAL E CULTURAL MÃOS AMIGAS",
+		"district": "RAMOS",
+		"address": "RUA SIRIEMA N. 23 -LJ -A",
+		"lat_long": "-22.850009,-43.248185",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02269050",
+		"name": "PROJETO VITÓRIA!",
+		"district": "Parque Vitória",
+		"address": "Rua Candiruaçu, s/n",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Araguaina / TO",
+		"postal_code": "",
+		"name": "Rainha da Sucata",
+		"district": "Nova Araguaina",
+		"address": "Rua 01, quadra 04, lote 09",
+		"lat_long": "-7.228056,-48.240278",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Marica / RJ",
+		"postal_code": "24900000",
+		"name": "RDSCOOP LTDA",
+		"district": "PONTA NEGRA",
+		"address": "RUA 125 L5 Q 173",
+		"lat_long": "-22.9190924,-42.8182849",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Tecido, Óleo, Madeira, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04803090",
+		"name": "Recibrasil Reciclagem Comercial",
+		"district": "Interlagos",
+		"address": "Rua Fort George, 244",
+		"lat_long": "-23.7037427,-46.7009453",
+		"material": "Papel"
+	},
+	{
+		"city": "Leme / SP",
+		"postal_code": "13610000",
+		"name": "Recicla Leme",
+		"district": "Vl Joeste",
+		"address": "R. Antonio Delai, 26",
+		"lat_long": "-22.1892373,-47.3979991",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Jequié / BA",
+		"postal_code": "45200000",
+		"name": "Reciclaação(programa de coleta seletiva)",
+		"district": "jequiezinho",
+		"address": "av. vavá lomanto 40",
+		"lat_long": "-13.8510445,-40.0811734",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02357-120",
+		"name": "Reciclação",
+		"district": "Tremebé",
+		"address": "Rua Capitão José Aguirre de Camargo, 400",
+		"lat_long": "-23.444648,-46.6113527",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "maracas / BA",
+		"postal_code": "45360000",
+		"name": "RECICLAMAR  cooperativa dos catadores de materiais reciclaveis de mara",
+		"district": "logoa comprida",
+		"address": "estrada do cruzeiro km 05",
+		"lat_long": "-13.4283176,-40.4377864",
+		"material": "Metal, Pneu, Papel, Pilha, Bateria, Longa Vida, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03077-000",
+		"name": "Reciclando Esperança",
+		"district": "Jardim Elba",
+		"address": "Rua Custódio Cardoso, 19",
+		"lat_long": "-23.6207739,-46.5079848",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Santiago / RS",
+		"postal_code": "97700000",
+		"name": "COOPERS LTDA",
+		"district": "Centro",
+		"address": "Rua Barão do Rio Branco, 628",
+		"lat_long": "-29.1723363,-54.8566271",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "ilha solteira / SP",
+		"postal_code": "15385000",
+		"name": "Cooperseli",
+		"district": "distrito industrial",
+		"address": "marginal da torre de tv",
+		"lat_long": "-20.4259773,-51.3427279",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Lâmpadas, Óleo"
+	},
+	{
+		"city": "LINS / SP",
+		"postal_code": "16400000",
+		"name": "COOPERSOL",
+		"district": "",
+		"address": "ESTRADA LIN 80",
+		"lat_long": "-21.6544795,-49.7145026",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "30664-750",
+		"name": "COOPERSOLI- Cooperativa Solidária dos Recicladores e Grupos Produtivos",
+		"district": "Jatobá 4",
+		"address": "Rua Lacyr Maffia, 161",
+		"lat_long": "-19.9190677,-43.9385747",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "ITANHAÉM / SP",
+		"postal_code": "11740000",
+		"name": "COOPERSOLRECICLANDO",
+		"district": "JD. BOPIRANGA",
+		"address": "RUA ISABEL MENEZES HANGAI 35",
+		"lat_long": "-24.18346,-46.7894585",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Nova Odessa / SP",
+		"postal_code": "",
+		"name": "Coopersonhos",
+		"district": "Jardim Conceição",
+		"address": "R. 06, 102",
+		"lat_long": "-22.7673877,-47.2717921",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "SALVADOR / BA",
+		"postal_code": "40715290",
+		"name": "COOPERSSF - COOPERATIVA DE RECICLAGEM E SERVIÇOS DO SUBÚRBIO FERROVIÁR",
+		"district": "ILHA AMARELA",
+		"address": "RUA BOA ESPERANÇA DE ILHA AMARELA N/O 84",
+		"lat_long": "-12.8826187,-38.4718499",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tecido, Matéria Orgânica"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "22471-330",
+		"name": "COOPERSUL - Humaitá",
+		"district": "Humaitá",
+		"address": "Rua Frei Veloso, s/n",
+		"lat_long": "-22.9595076,-43.204122",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Sebastião / SP",
+		"postal_code": "",
+		"name": "COOPERSUSS Coop. Triagem Sucata União de São Sebastião",
+		"district": "",
+		"address": "Av Remo Corrêa da Silva, 1745",
+		"lat_long": "-23.7610445,-45.412088",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itaúna / MG",
+		"postal_code": "35608100",
+		"name": "COOPERT - Cooperativa de Reciclagem e Trabalho de Itauna ltda",
+		"district": "Pq. Jardim",
+		"address": "Av. João Moureira de Carvalho, 1460",
+		"lat_long": "-20.0735472,-44.5727288",
+		"material": "Plástico, Metal, Pneu, Papel, Bateria, Vidro, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Caicó / RN",
+		"postal_code": "59300000",
+		"name": "Coopertiva de Reciclagem de Lixo e Derivados do Seridó",
+		"district": "Centro",
+		"address": "Pça. Monsenhor Walfredo Gurgel, 67",
+		"lat_long": "-6.4598109,-37.0990063",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02000-000",
+		"name": "Cooperunião",
+		"district": "Vila Carmosina",
+		"address": "Rua São Féliz do Piauí, 1221",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "São Carlos / SP",
+		"postal_code": "13572-000",
+		"name": "Coopervida",
+		"district": "Nova Estância",
+		"address": "Rua El Salvador, 65",
+		"lat_long": "-22.0132923,-47.89085",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Praia Grande / SP",
+		"postal_code": "",
+		"name": "Coopervida",
+		"district": "Jd São Miguel",
+		"address": "Av dos Trabalhadores, 2300",
+		"lat_long": "-23.9991395,-46.4132571",
+		"material": "Plástico, Metal, Papel, Pilha, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Mogi Mirim / SP",
+		"postal_code": "13800165",
+		"name": "COOPERVIDA - Cooperativa de Trabalho Vida Nova de Mogi Mirim",
+		"district": "Mirante",
+		"address": "Praça Itapira, 125",
+		"lat_long": "-22.4319904,-46.9581558",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Ituiutaba / MG",
+		"postal_code": "38300152",
+		"name": "Copercicla - Coop. Catadores Mat. Reciclável de Ituiutaba",
+		"district": "Progresso",
+		"address": "Av 7, 634",
+		"lat_long": "-18.9653759,-49.4630946",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Santa Cecília do Sul / RS",
+		"postal_code": "99952000",
+		"name": "COPERCICLA - Cooperativa dos Recicladores de Resíduos Orgânicos e Inor",
+		"district": "Interior",
+		"address": "Estrada Geral, S/N",
+		"lat_long": "-28.1642033,-51.9308513",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Óleo, Matéria Orgânica"
+	},
+	{
+		"city": "PERUIBE / SP",
+		"postal_code": "11750000",
+		"name": "COPP - CENTRO DE ORIENTAÇÃO PROFISSIONAL E PEDAGOGICO",
+		"district": "JD DOS PRADOS",
+		"address": "AV. TRES, 381",
+		"lat_long": "-24.3172939,-46.9954314",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Borracha"
+	},
+	{
+		"city": "Alagoinhas / BA",
+		"postal_code": "48010140",
+		"name": "CORAL- Cooperativa de catadores e Recicladores de Alagoinhas",
+		"district": "Centro",
+		"address": "J.J.Seabra s/nº",
+		"lat_long": "-12.1202708,-38.4098211",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Sorocaba / SP",
+		"postal_code": "",
+		"name": "CORESO - Cooperativa de Reciclagem de Sorocaba",
+		"district": "",
+		"address": "Rua São Bento, 190 sala 64",
+		"lat_long": "-23.5009749,-47.4583491",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Pelotas / RS",
+		"postal_code": "96025060",
+		"name": "Correciclo - Cooperativa de Reciclagem",
+		"district": "Fragata",
+		"address": "Rua Clovis Bevilaqua , 107",
+		"lat_long": "-31.7682494,-52.3530199",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Sertãozinho / SP",
+		"postal_code": "14160000",
+		"name": "CORSERTA - Cooperativa dos Recicladores de Sertãozinho",
+		"district": "jd Alvorada",
+		"address": "Rua Vol. Otto Gomes Martins, 715",
+		"lat_long": "-21.1434038,-48.0070321",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo"
+	},
+	{
+		"city": "Brasília / DF",
+		"postal_code": "71771140",
+		"name": "CORTRAP - Cooperativa de Reciclagem Trabalho e Produção",
+		"district": "Vila Estrutural",
+		"address": "QN 14-D, (terreno GDF)",
+		"lat_long": "-15.7801482,-47.9291698",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Marília / SP",
+		"postal_code": "17522140",
+		"name": "COTRACIL - Cooperativa de Trabalho Cidade Limpa",
+		"district": "Monsenhor Toffoli",
+		"address": "Rua Arlindo Jota s/nº",
+		"lat_long": "-22.2203322,-49.9481245",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Araquari / SC",
+		"postal_code": "89245000",
+		"name": "COTRAECO - Cooperativa de Trabalho dos Agentes ecológicos de Araquari",
+		"district": "Porto Grande",
+		"address": "Rod. BR 280 km 29 Caixa postal 13",
+		"lat_long": "-26.3703229,-48.7232105",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Guarapari / ES",
+		"postal_code": "29200-600",
+		"name": "COTRAG - Cooperativa de Trabalho de Reciclagem, Limpeza e Conservação",
+		"district": "Centro",
+		"address": "Rua Zuleima Fortes Farias, 133",
+		"lat_long": "-20.6503933,-40.5070247",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Campina Grande / PB",
+		"postal_code": "58107015",
+		"name": "COTRAMARE - Cooperativa de Trabalhadores de Materiais Recicláveis",
+		"district": "Jardim Quarenta",
+		"address": "R. Santa Rita, 486",
+		"lat_long": "-7.2307181,-35.8816664",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Suzano / SP",
+		"postal_code": "08615190",
+		"name": "Coures - Cooperativa de Suzano",
+		"district": "Vila Urupes",
+		"address": "Rua Caboclos, nº490",
+		"lat_long": "-23.5483163,-46.2965327",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Vidro, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Tecido, Óleo, Madeira, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Poá / SP",
+		"postal_code": "08558-210",
+		"name": "CRUMA - Cooperativa de Reciclagem Unidos pelo Meio Ambiente",
+		"district": "Vila Varela",
+		"address": "Rua Osvaldo Teixeira , 151",
+		"lat_long": "-23.5102727,-46.3366509",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03164300",
+		"name": "ECCOPLAS",
+		"district": "MOOCA",
+		"address": "Rua Visconde de Parnaíba, 1591 cj. 181-B",
+		"lat_long": "-23.5472628,-46.6097755",
+		"material": "Plástico"
+	},
+	{
+		"city": "Santo Antônio do Aracanguá / SP",
+		"postal_code": "",
+		"name": "COOPERECICLASAA",
+		"district": "",
+		"address": "R. Pio Prado, 259",
+		"lat_long": "-20.9338183,-50.497776",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Barueri / SP",
+		"postal_code": "06440030",
+		"name": "Coopereco",
+		"district": "Aldeia de Barueri",
+		"address": "Av Guilherme Rohn, 608",
+		"lat_long": "-23.5115298,-46.8585863",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Gravatá / PE",
+		"postal_code": "55644000",
+		"name": "Coopereg-Cooperativa de Reciclagem Gravatá",
+		"district": "Novo Gravatá",
+		"address": "Av. Cícero Batista de Oliveira,2346-B",
+		"lat_long": "-8.209598,-35.5695497",
+		"material": "Papel"
+	},
+	{
+		"city": "São Leopoldo / RS",
+		"postal_code": "93046-680",
+		"name": "COOPERESÍDUOS",
+		"district": "Vila Santa Marta",
+		"address": "Rua Dois, 80",
+		"lat_long": "40.9499851,-5.6328895",
+		"material": "Plástico, Metal, Papel, Bateria, Longa Vida"
+	},
+	{
+		"city": "Porto alegre / RS",
+		"postal_code": "90250610",
+		"name": "cooperetiva ambiental e distribuição de serviços comunitarios",
+		"district": "navegantes",
+		"address": "diretriz 600,numero 113",
+		"lat_long": "-30.0003448,-51.2029918",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itajaí / SC",
+		"postal_code": "88301-240",
+		"name": "COOPERFOZ - Cooperativa dos Coletores de Material Reciclável da Foz do",
+		"district": "Bombeiros",
+		"address": "Av. Doutor Reinaldo Schmithausen, 239",
+		"lat_long": "-26.9082576,-48.6626023",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21660-355",
+		"name": "COOPERGRAMACHO",
+		"district": "Monte Castelo",
+		"address": "Av . Tocantins s/n",
+		"lat_long": "-22.5068215,-44.0671811",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Americana / SP",
+		"postal_code": "",
+		"name": "Coopergramado",
+		"district": "Jd. Basanelli",
+		"address": "Rua Mon. Senhor Bruno Nardini, 1131",
+		"lat_long": "-22.7387884,-47.3319134",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itapema / SC",
+		"postal_code": "88220000",
+		"name": "COOPERITAPEMA",
+		"district": "294",
+		"address": "RUA 466",
+		"lat_long": "-27.0909603,-48.6119947",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Jequié / BA",
+		"postal_code": "45206120",
+		"name": "COOPERJE - Cooperativa de Catadores Recicla Jequié",
+		"district": "Vila Suiça",
+		"address": "BR 116, KM 6",
+		"lat_long": "-13.8510445,-40.0811734",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São José do Rio Preto / SP",
+		"postal_code": "",
+		"name": "Cooperlagos",
+		"district": "Pq Industrial",
+		"address": "Av Cenobelino de Barros Serra",
+		"lat_long": "-20.7958838,-49.3915414",
+		"material": "Plástico, Metal, Papel, Longa Vida, Tinta, Óleo, Eletrônicos"
+	},
+	{
+		"city": "XINGUARA / PA",
+		"postal_code": "68555000",
+		"name": "cooperlimpa",
+		"district": "MARAJOARA   I",
+		"address": "RUA BARÃO DO RIO BRANCO, 914",
+		"lat_long": "-22.6730113,-43.6203002",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Tecido, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Bebedouro / SP",
+		"postal_code": "14702008",
+		"name": "COOPERLIMPO - COOPERATIVA DOS COLETORES DE MATERIAIS RECICLAVEIS DE BE",
+		"district": "SUMARÉ",
+		"address": "AV. MARGINAL, 1820 - PARQUE DE EXPOSIÇÕES FECCIB NOVA",
+		"lat_long": "-20.9495638,-48.4788627",
+		"material": "Plástico, Metal, Pneu, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Paulínia / SP",
+		"postal_code": "1314000",
+		"name": "COOPERLÍNIA AMBIENTAL DO BRASIL",
+		"district": "Jd Calegari",
+		"address": "Rua Maria das Dores Leal de Queiroz, 398 - fundos - Jd. Calegari",
+		"lat_long": "-22.761653,-47.1540742",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Madeira"
+	},
+	{
+		"city": "Americana / SP",
+		"postal_code": "",
+		"name": "COOPERLÍRIOS",
+		"district": "Jd. dos Lírios",
+		"address": "Rua Pica-Pau, 563",
+		"lat_long": "-22.7387884,-47.3319134",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Presidente Prudente / SP",
+		"postal_code": "",
+		"name": "COOPERLIX - Cooperativa de Trabalhadores de Produtos Recicláveis de Pr",
+		"district": "Distrito Industrial",
+		"address": "Travessa Três, S/N",
+		"lat_long": "-22.1271927,-51.3851736",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Presidente Prudente / SP",
+		"postal_code": "",
+		"name": "COOPERLIX-Cooperativa dos Trabalhadores de Produtos Reciclaveis de Pre",
+		"district": "Distrito Industrial",
+		"address": "Rua Mariano Arenales Benito, s/nº",
+		"lat_long": "-22.1271927,-51.3851736",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Borracha"
+	},
+	{
+		"city": "orlandia / SP",
+		"postal_code": "14620000",
+		"name": "cooperlol",
+		"district": "jardim boa vista",
+		"address": "avenida h 338",
+		"lat_long": "-20.7200115,-47.887952",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "São paulo / SP",
+		"postal_code": "03951000",
+		"name": "COOPERLSTE-Central de Produção Coleta Triagem e Beneficiamento de Mate",
+		"district": "Jd. 9 de Julho",
+		"address": "Estrada da Fazenda do Carmo, 450",
+		"lat_long": "-23.5930299,-46.4837082",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Mauá / SP",
+		"postal_code": "19370-826",
+		"name": "COOPERMA Cooperativa Autonoma de Mauá",
+		"district": "Vila Carlina, Polo Industrial de Sertãozinho",
+		"address": "Rua Edson Erasmo da Silva, 45",
+		"lat_long": "-23.699523,-46.4830389",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São João da Boa Vista / SP",
+		"postal_code": "18877767",
+		"name": "Coopermax-Cooperativa deprestação de Serviços e Produção de Materiais",
+		"district": "Distrito Industrial 2",
+		"address": "Rua Adorvando José Valim 365",
+		"lat_long": "-21.9694911,-46.7988902",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01153010",
+		"name": "COOPERMITI - Cooperativa de Resíduos Sólidos Eletro-Eletrônicos",
+		"district": "Barra Funda",
+		"address": "Rua Dr. Sérgio Meira, 268 / 280",
+		"lat_long": "-23.5278774,-46.6566167",
+		"material": "Eletrônicos"
+	},
+	{
+		"city": "Osasco / SP",
+		"postal_code": "06160385",
+		"name": "COOPERMUNDI - Cooperativa de catadores preservando o mundo",
+		"district": "Jd. Iguassu",
+		"address": "R. Alfredo Benicasa, s/n°",
+		"lat_long": "-23.5316928,-46.7899232",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Osasco / SP",
+		"postal_code": "06276045",
+		"name": "COOPERNATUZ - Cooperativa de catadores cooperando com a natureza",
+		"district": "Parque Industrial Anhanguera",
+		"address": "R. Henkel, 80",
+		"lat_long": "-23.4843721,-46.7744539",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "06276045",
+		"name": "COOPERNATUZ - Cooperativa de catadores preservando a natureza",
+		"district": "Jd.Industrial Anhanguera",
+		"address": "R. Henkel, 80",
+		"lat_long": "-23.4843721,-46.7744539",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "20950-004",
+		"name": "Coopernorte - Sampaio",
+		"district": "Sampaio",
+		"address": "Av. Marechal Rondon, 2204",
+		"lat_long": "-22.9037246,-43.2598847",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "41515235",
+		"name": "Cooperpaz-Cooperativa de catadores de reciclagem de resíduos sólidos e",
+		"district": "da Paz",
+		"address": "Quinta travessa da Felicidade, número 1.",
+		"lat_long": "-12.9703817,-38.512382",
+		"material": "Plástico, Metal, Pneu, Papel, Longa Vida, Óleo, Madeira, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03820290",
+		"name": "CooperPenha Ambiental",
+		"district": "Vila Silvia",
+		"address": "R. Lagoa de Dentro, 170",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Morro do Chapeu / BA",
+		"postal_code": "44850000",
+		"name": "Cooperr",
+		"district": "são vicente",
+		"address": "josé marcelino s/n",
+		"lat_long": "-11.5524049,-41.157566",
+		"material": "Plástico, Metal, Pneu, Papel, Bateria, Vidro, Matéria Orgânica"
+	},
+	{
+		"city": "Votuporanga / SP",
+		"postal_code": "15501213",
+		"name": "Coopervinte-Cooperativa de Catadores de Materiais Recicláveis de Votup",
+		"district": "São João",
+		"address": "Thomas Paes da Cunha Filho",
+		"lat_long": "-20.4383557,-49.9762026",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "VOTUPORANGA / SP",
+		"postal_code": "15500000",
+		"name": "COOPERVINTE-COOPERATIVA DE CATADORES DE RECICLÁVEIS DE VOTUPORANGA",
+		"district": "SÃO JOÃO",
+		"address": "RUA THOMAS PAES DA CUNHA FILHO SEM NÚMERO",
+		"lat_long": "-20.4349721,-49.9764312",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Jaraguá do Sul / SC",
+		"postal_code": "89254630",
+		"name": "Coopervit",
+		"district": "Agua Verde",
+		"address": "Giardini Luiz Lenzi 96",
+		"lat_long": "-26.4774923,-49.1061572",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Eletrônicos"
+	},
+	{
+		"city": "Rio Claro / SP",
+		"postal_code": "13502440",
+		"name": "COOPERVIVA - Cooperativa de Rio Claro",
+		"district": "Vila Martins",
+		"address": "Rua 3-A, esq. Av. 42-A, s/nº",
+		"lat_long": "-22.3913478,-47.5600816",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Votorantim / SP",
+		"postal_code": "",
+		"name": "Coopervot",
+		"district": "",
+		"address": "Av. Jaziel Ribeiro, 1.041",
+		"lat_long": "-23.5271154,-47.4300616",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Barueri / SP",
+		"postal_code": "06453034",
+		"name": "COOPERYARA",
+		"district": "",
+		"address": "Estrada Cicero Borges de Moraes, s/n",
+		"lat_long": "-23.5027124,-46.8948999",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Vitória / ES",
+		"postal_code": "",
+		"name": "COOPETEC",
+		"district": "",
+		"address": "Av Marechal Campos, 310,  3°andar",
+		"lat_long": "-20.3153602,-40.3017673",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21235-110",
+		"name": "COOPEVAPE - Irajá",
+		"district": "Irajá",
+		"address": "Av. Monsenhor Félix, 512",
+		"lat_long": "-22.8465654,-43.3243495",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Garanhus / PE",
+		"postal_code": "55290000",
+		"name": "COOPMA Cooperativa de Meio Ambiente",
+		"district": "",
+		"address": "Rua Napoleão Galvão, 605",
+		"lat_long": "-8.8896095,-36.4894467",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Camaçari / BA",
+		"postal_code": "42800-970",
+		"name": "COOPMARC- Cooperativa de Materiais Recicláveis de Camaçari e Prestação",
+		"district": "Espaço Alfa",
+		"address": "Rua Princesa Isabel s/n",
+		"lat_long": "-12.6963594,-38.3233512",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Arapongas / PR",
+		"postal_code": "86706-019",
+		"name": "Coopreara- Cooperativa dos Recicladores de Arapongas",
+		"district": "Parque Industrial 4",
+		"address": "Rua Anu Coroca, 80",
+		"lat_long": "-23.4198926,-51.4254004",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Goiânia / GO",
+		"postal_code": "",
+		"name": "COOPREC - Cooperativa de Reciclagem",
+		"district": "Jd Conquista",
+		"address": "Travessa  Xingu, s/n",
+		"lat_long": "-16.6777153,-49.2676296",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental, Madeira"
+	},
+	{
+		"city": "Guarulhos / SP",
+		"postal_code": "07231000",
+		"name": "COOPRECICLÁVEL - Cooperativa de Catadores de Materiais Recicláveis de",
+		"district": "Jd S. Geraldo   Taboão  (Aeroporto)",
+		"address": "R. Estrela dOeste, 700",
+		"lat_long": "-23.4634523,-46.5334502",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Lençóis Paulista / SP",
+		"postal_code": "18682970",
+		"name": "COOPRELP - Cooperativa de Reciclagem de Lençóis Paulista",
+		"district": "Distrito Industrial II",
+		"address": "Rodovia Juliano Lorenzetti, Km 8,6",
+		"lat_long": "-22.5968277,-48.8118612",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Madeira, Matéria Orgânica, Eletrônicos"
+	},
+	{
+		"city": "Ceará / CE",
+		"postal_code": "60415170",
+		"name": "Coopremarce",
+		"district": "Centro",
+		"address": "Rua Bartolomeu de Gusmão, 1041",
+		"lat_long": "-3.7582085,-38.5266061",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "20930390",
+		"name": "Cooperativa Recicladores Ambientais Transformando",
+		"district": "Caju",
+		"address": "Rua Peter Lund 38 Bloco A Loja H",
+		"lat_long": "-22.8828623,-43.2251812",
+		"material": "Plástico, Papel, Vidro"
+	},
+	{
+		"city": "Bragança Paulista / SP",
+		"postal_code": "12908851",
+		"name": "Cooperativa Recicle Bragança",
+		"district": "",
+		"address": "Av. São Lourenço, 430",
+		"lat_long": "-22.9455781,-46.5422454",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Santa Bárbara dOeste / SP",
+		"postal_code": "13453520",
+		"name": "Cooperativa Recicloplástica",
+		"district": "",
+		"address": "Av. Amadeu Tortelli, 359",
+		"lat_long": "-22.7378073,-47.3955142",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Remodela",
+		"district": "Vila Mimosa",
+		"address": "R. Ana Beatriz  , 901",
+		"lat_long": "-22.9416587,-47.0904419",
+		"material": "Óleo"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Santa Genebra",
+		"district": "Santa Genebra",
+		"address": "R. Estácio de Sá, 577",
+		"lat_long": "-22.8513946,-47.075348",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Óleo, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Santo Expedito",
+		"district": "Vila Presidente Castelo Branco",
+		"address": "R. Basílio da Gama, 101",
+		"lat_long": "-22.9071048,-47.0632391",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Madeira"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa São Bernardo",
+		"district": "Pq. Itália",
+		"address": "Av. Faria Lima, 630",
+		"lat_long": "-22.9159144,-47.0706656",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Americana / SP",
+		"postal_code": "",
+		"name": "Cooperativa São Domingos",
+		"district": "Jd. Basanelli.",
+		"address": "Rua Mon Senhor Bruno Nardini, 1115",
+		"lat_long": "-22.7387884,-47.3319134",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Arapiraca / AL",
+		"postal_code": "57300000",
+		"name": "Cooperativa São Vicente",
+		"district": "Canafistura",
+		"address": "Rua Santa Isabel, s/n",
+		"lat_long": "-9.7516401,-36.6604257",
+		"material": "Plástico, Metal, Papel, Vidro, Tecido"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02237000",
+		"name": "Cooperativa Sem Fronteiras",
+		"district": "Jardim Modelo",
+		"address": "Rua General Jerônimo Furtado, 572",
+		"lat_long": "-23.4665732,-46.5714724",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "Camaçari / BA",
+		"postal_code": "42800000",
+		"name": "Cooperativa Trabalhadores em Reciclagem Resíduos Sólidos Renascer & Re",
+		"district": "Alto da Cruz",
+		"address": "Travessa São José,s/n",
+		"lat_long": "-12.6963594,-38.3233512",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Bahia / BA",
+		"postal_code": "41330030",
+		"name": "cooperativa uniao",
+		"district": "nazare",
+		"address": "rua do gravata 20",
+		"lat_long": "-12.9764683,-38.5103101",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Matéria Orgânica, Eletrônicos"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "Cooperativa União Ambiental e Artesanal MOFARREJ",
+		"district": "Vila Leopoldina",
+		"address": "R. Dr. Gastão Vidigal, 1070/1010 (em baixo do viaduto)",
+		"lat_long": "-23.5298763,-46.7333436",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tecido"
+	},
+	{
+		"city": "Boa Vista / RO",
+		"postal_code": "69000000",
+		"name": "Cooperativa Unirenda",
+		"district": "Nova Cidade",
+		"address": "BR 174 , Rua N 14",
+		"lat_long": "-29.7125706,-51.1196816",
+		"material": "Plástico, Metal, Papel, Vidro, Madeira, Matéria Orgânica"
+	},
+	{
+		"city": "Cachoeiro de Itapemirim / ES",
+		"postal_code": "29310600",
+		"name": "Cooperativa Unirmãos",
+		"district": "Alto Boa Vista",
+		"address": "Rua Rosa Dias Barbosa, 4",
+		"lat_long": "-20.8493678,-41.113221",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21842-340",
+		"name": "Cooperativa Vale da Safira",
+		"district": "Vila Aliança",
+		"address": "Av. do Corretor, 23",
+		"lat_long": "-22.8706429,-43.4809519",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Nova Iguaçu / RJ",
+		"postal_code": "26215200",
+		"name": "Cooperativa Vitoria dos coletores de materiais reaproveitaveis da cida",
+		"district": "Centro",
+		"address": "R TELES BITTENCOURT   192",
+		"lat_long": "-22.7531238,-43.4509553",
+		"material": "Plástico, Papel, Longa Vida, Óleo"
+	},
+	{
+		"city": "Araraquara / SP",
+		"postal_code": "148000000",
+		"name": "Cooperatriva Acacia de Catadores",
+		"district": "Jd. Pinheiros",
+		"address": "Av. Gervásio Brito Francisco, 750",
+		"lat_long": "-21.7613764,-48.1212562",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Guarujá / SP",
+		"postal_code": "11400000",
+		"name": "Cooperben",
+		"district": "Vila Sao Miguel",
+		"address": "Rua Santo Antonio 136",
+		"lat_long": "-28.252748,-52.4282014",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "BORBOREMA / SP",
+		"postal_code": "14955000",
+		"name": "COOPERBO - COOP. TRAB. REC. RES. SOLIDOS BORBOREMA",
+		"district": "CORGUINHO",
+		"address": "RODOVIA BBR 157, KM 2,5",
+		"lat_long": "-21.6705147,-49.0976441",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Óleo, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04777000",
+		"name": "Coopercaps",
+		"district": "Vila da Paz",
+		"address": "Av. João Paulo da Silva, 48",
+		"lat_long": "-23.6932003,-46.6980718",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "SARANDI / PR",
+		"postal_code": "87114050",
+		"name": "COOPERCENTRAL",
+		"district": "JARDIM INDEPENDENCIA",
+		"address": "RUA JOSE BONIFACIO",
+		"lat_long": "-23.4521694,-51.8526722",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Vicente / SP",
+		"postal_code": "11365140",
+		"name": "COOPERCIAL- Cooperativa de Trabalho Cidade Alta",
+		"district": "Joquei Club",
+		"address": "Av. Sambaiatu, 116",
+		"lat_long": "-23.9629754,-46.3918028",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02989100",
+		"name": "COOPERCICLA",
+		"district": "Jardim Marilu",
+		"address": "Rua João Batista Dias, 97",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Maringá / PR",
+		"postal_code": "87020-050",
+		"name": "COOPERCICLA Cooperativa de Coleta Seletiva",
+		"district": "Zona 7",
+		"address": "Av. Guaíra , 184",
+		"lat_long": "-23.4180141,-51.9451328",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Caetité / BA",
+		"postal_code": "47400000",
+		"name": "coopercicli cooperativa de coleta seletiva e reciclagem da cidade de c",
+		"district": "ovidio teixeira",
+		"address": "rodovia caetité/ maniaçu- sn",
+		"lat_long": "-14.0647998,-42.4861835",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "CAJAMAR / SP",
+		"postal_code": "07050000",
+		"name": "COOPERCON",
+		"district": "PQ VITORIA",
+		"address": "RUA COROADOS,155",
+		"lat_long": "-23.3565119,-46.8768692",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03000-000",
+		"name": "COOPERCOS- Cooperativa Peruense de Reiclagem e Coleta Seletiva",
+		"district": "Perus",
+		"address": "Rua Mojero, 1795",
+		"lat_long": "-23.41,-46.74733",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "01108000",
+		"name": "COOPERE",
+		"district": "Bom Retiro",
+		"address": "Av. do Estado, 300",
+		"lat_long": "-23.5217986,-46.6355287",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40750274",
+		"name": "Cooperativa de serviços reciclagem meio ambiente e promoçao da cidadan",
+		"district": "alto de coutos  vista alêgre",
+		"address": "rua da paz lot 41 casa 60",
+		"lat_long": "-12.9703817,-38.512382",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Atibaia / SP",
+		"postal_code": "12940514",
+		"name": "cooperativa de trab col lixo sao jose",
+		"district": "caetetuba",
+		"address": "av.geronimo de camargo s/n",
+		"lat_long": "-23.1148969,-46.5663922",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Madeira"
+	},
+	{
+		"city": "Canguçu / RS",
+		"postal_code": "",
+		"name": "Cooperativa de Trabalhadores em Reciclagem de Lixo de Canguçu LTDA",
+		"district": "1º Distro - Serro das Tropas",
+		"address": "BR 392 entre os Km 120 e 121 / Serro das Tropas 1º Distrito",
+		"lat_long": "-31.4033889,-52.6840499",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Tapejara / RS",
+		"postal_code": "95600000",
+		"name": "Cooperativa de Trabalhadores Tapejara",
+		"district": "Centro",
+		"address": "Av. 7 de Setembro, 1130",
+		"lat_long": "-28.0713008,-52.0143414",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "23097200",
+		"name": "Cooperativa de Trabalho Comunitário - COOTRACOM",
+		"district": "Campo Grande",
+		"address": "Estrada do Guando,1122",
+		"lat_long": "-22.8417636,-43.5225998",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Itapecerica da Serra / SP",
+		"postal_code": "06881100",
+		"name": "Cooperativa de Trabalho dos Recicladores de Itapecerica Serra",
+		"district": "Potuverá",
+		"address": "Estrada balthazar Manoel",
+		"lat_long": "-23.7174593,-46.8494553",
+		"material": "Papel"
+	},
+	{
+		"city": "Orlândia / SP",
+		"postal_code": "14620000",
+		"name": "Cooperativa de Trabalho dos Recicladores de Lixo de Orlândia",
+		"district": "Centro",
+		"address": "Avenida H, 348",
+		"lat_long": "-20.7200115,-47.887952",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Penápolis / SP",
+		"postal_code": "16300000",
+		"name": "COOPERATIVA DE TRABALHO DOS RECICLADORES DE LIXO DE PENÁPOLIS - CORPE",
+		"district": "LAJEADO",
+		"address": "ESTRADA MUNICIPAL ELÍDIO AURÉLIO FERREIRA 4050",
+		"lat_long": "-21.4209111,-50.0780448",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Tupã / SP",
+		"postal_code": "17600000",
+		"name": "Cooperativa de Trabalho dos Recicladores de Tupã",
+		"district": "Parque Industrial I",
+		"address": "R. José de Mello nº 10",
+		"lat_long": "-21.9384167,-50.5139493",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05791280",
+		"name": "COOPERATIVA DE TRABALHO EM COLETA SELETIVA GAIA - COOPERGAIA",
+		"district": "JARDIM MITSUTANI",
+		"address": "RUA VITORIANO DE OLIVEIRA, 1000",
+		"lat_long": "-23.6510376,-46.7804891",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "08032-010",
+		"name": "Cooperativa de Triagem Itaim Paulista",
+		"district": "Vila Cruça",
+		"address": "Rua Cembira, 1100",
+		"lat_long": "-23.5058244,-46.4290229",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "08300000",
+		"name": "Cooperativa de Triagem São Mateus",
+		"district": "São Mateus",
+		"address": "Rua Estrada da Fazenda do Carmo, 450",
+		"lat_long": "-23.596774,-46.4595081",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Borracha"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Dom Bosco",
+		"district": "Pq. São Quirino",
+		"address": "R.Herculano Gracioli, 965",
+		"lat_long": "-22.851835,-47.0311968",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Foz do Iguaçu / PR",
+		"postal_code": "85890000",
+		"name": "Cooperativa dos agentes ambientais de Foz do Iguacu",
+		"district": "Centro",
+		"address": "Rua a Angela  Aparecida de Andrade,  3021",
+		"lat_long": "-25.5468978,-54.5881716",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Taboão da serra / SP",
+		"postal_code": "06765440",
+		"name": "Cooperativa dos Agentes Ambientais de Taboão da Serra - Cooperzagati",
+		"district": "Pq Industrial das Oliveiras",
+		"address": "R. Aurea Tavares, s/n",
+		"lat_long": "-23.6078322,-46.7528802",
+		"material": "Plástico, Metal, Papel, Vidro, Óleo"
+	},
+	{
+		"city": "são paulo / SP",
+		"postal_code": "02169030",
+		"name": "Cooperativa de reciclagem - Coopervila",
+		"district": "parque vila maria",
+		"address": "rua ernesto augusto lopes, 100a",
+		"lat_long": "-23.51466,-46.5788773",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "13085101",
+		"name": "Cooperativa de Reciclagem Barão Legal",
+		"district": "",
+		"address": "Rua Rodrigo Ribeiro de Melo, 121",
+		"lat_long": "-22.8270626,-47.0970598",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05133000",
+		"name": "Cooperativa de Reciclagem CRESCER",
+		"district": "Pirituba",
+		"address": "Rua Joaquim de Oliveira Freitas, 325",
+		"lat_long": "-23.5043096,-46.7466737",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Limeira / SP",
+		"postal_code": "13484-000",
+		"name": "Cooperativa de Reciclagem de Limeira",
+		"district": "Jardim  Aeroporto",
+		"address": "Rua Antonio Luna, 1323",
+		"lat_long": "-22.6076663,-47.4171819",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Formosa / GO",
+		"postal_code": "73300000",
+		"name": "cooperativa de reciclagem de lixo de prestação de serviços em geral e",
+		"district": "Formosinha",
+		"address": "RUA 22 QD  100 LTS  1 e 2",
+		"lat_long": "-15.5369723,-47.3357273",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Tubo Dental, Eletrônicos"
+	},
+	{
+		"city": "Caicó / RN",
+		"postal_code": "59300000",
+		"name": "Cooperativa de Reciclagem de Lixo e derivados do Seridó",
+		"district": "Centro",
+		"address": "Praça Monsenhor Walfredo Gurgel, 67",
+		"lat_long": "-6.4598109,-37.0990063",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tubo Dental, Matéria Orgânica, Borracha"
+	},
+	{
+		"city": "São Luis / MA",
+		"postal_code": "65058000",
+		"name": "Cooperativa de Reciclagem de São Luis",
+		"district": "Anjo de Guarda",
+		"address": "Travessa 29, 50",
+		"lat_long": "-2.5589763,-44.328908",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Lâmpadas, Borracha"
+	},
+	{
+		"city": "Lages / SC",
+		"postal_code": "88525-440",
+		"name": "Cooperativa de Reciclagem Planalto Serrano",
+		"district": "",
+		"address": "Rua Bruno Luersen, 550",
+		"lat_long": "-27.8079356,-50.2874857",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04001300",
+		"name": "Cooperativa de Reciclagem PLANETA VERDE",
+		"district": "Campo Belo",
+		"address": "Rua Alsácia,410",
+		"lat_long": "-23.6358033,-46.6624913",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "TATUÍ / SP",
+		"postal_code": "18270000",
+		"name": "Cooperativa de Reciclagem Renascer",
+		"district": "Boqueirão",
+		"address": "R. Teofilo andrade Gama, 1.153",
+		"lat_long": "-23.3563971,-47.8568451",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tecido, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Resende / RJ",
+		"postal_code": "27523000",
+		"name": "Cooperativa de Reciclagem Rezende",
+		"district": "Morada da Colina",
+		"address": "Rua Prof. Darcy Ribeiro, s/n",
+		"lat_long": "-22.4626523,-44.4555528",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Tramandaí / RS",
+		"postal_code": "95590000",
+		"name": "Cooperativa de Reciclagem Tramandaí",
+		"district": "",
+		"address": "Rua da Fazenda Teixeira, s/n",
+		"lat_long": "-30.0099762,-50.151622",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Carapicuíba / SP",
+		"postal_code": "06335020",
+		"name": "Cooperativa de Reciclagem Veloso",
+		"district": "",
+		"address": "Rua Jatoba, 576",
+		"lat_long": "-23.5508508,-46.8294983",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "CUIABA / MT",
+		"postal_code": "78060746",
+		"name": "COOPERATIVA DE RECUPERAÇÃO DE RESÍDUOS SÓLIDOS DE MATO GROSSO",
+		"district": "JARDIM ITÁLIA",
+		"address": "AVENIDA ARQUIMEDES PEREIRA LIMA 1501",
+		"lat_long": "-15.6050373,-56.063239",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Ribeirão Pires / SP",
+		"postal_code": "",
+		"name": "Cooperativa de Ribeirão Pires – Cooperpires",
+		"district": "",
+		"address": "R. Miguel Prisco, 200",
+		"lat_long": "-23.7095129,-46.4140327",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Catanduva / SP",
+		"postal_code": "15800-000",
+		"name": "Cooperativa Luxo do Lixo",
+		"district": "Vila Nova",
+		"address": "Rua São Paulo, 777",
+		"lat_long": "-21.1270329,-48.9739229",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Goiânia / GO",
+		"postal_code": "",
+		"name": "Cooperativa Meio Ambiente Saudável - COOPERMAS",
+		"district": "Conjunto Vera Cruz I",
+		"address": "Av Senador Canedo, 31",
+		"lat_long": "-16.662249,-49.3890953",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Nova Iguaçu / RJ",
+		"postal_code": "26220030",
+		"name": "Cooperativa Mista de Coleta Seletiva Aproveitamento de Resíduos Sólido",
+		"district": "Centro",
+		"address": "Rua Coronel Francisco Soares, 872",
+		"lat_long": "-22.7559116,-43.4410865",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Passo Fundo / RS",
+		"postal_code": "99036070",
+		"name": "Cooperativa Mista de Produção e Trabalho dos Empreendedores Populares",
+		"district": "Donária",
+		"address": "Av.Domingos Gomes, s/n",
+		"lat_long": "-28.2812303,-52.4328616",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Eletrônicos"
+	},
+	{
+		"city": "Abaetetuba / PA",
+		"postal_code": "68440000",
+		"name": "Cooperativa Mista dos Catadores de Lixo Reciclável do Município de Aba",
+		"district": "Bosque",
+		"address": "End.",
+		"lat_long": "-1.7295061,-48.8742526",
+		"material": "Plástico, Metal, Papel, Madeira, Matéria Orgânica"
+	},
+	{
+		"city": "Concórdia / SC",
+		"postal_code": "89700-000",
+		"name": "Cooperativa Multi-Trabalhos Colibri",
+		"district": "",
+		"address": "Linha Vitória, s/n",
+		"lat_long": "-27.2475429,-52.0195957",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Guarujá / SP",
+		"postal_code": "11461090",
+		"name": "Cooperativa Mundo Novo",
+		"district": "Centro",
+		"address": "Av. São João, 50",
+		"lat_long": "-23.9503857,-46.2899721",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "13082000",
+		"name": "Cooperativa N. Sra. Aparecida",
+		"district": "Jardim Baroneza",
+		"address": "Rua Serra Dourada, 165",
+		"lat_long": "-22.9159556,-47.0393291",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "20785220",
+		"name": "Cooperativa Popular Amigos do Meio Ambiente Ltda.",
+		"district": "Maria da Graça",
+		"address": "Rua Miguel Ângelo, 385",
+		"lat_long": "-22.8860328,-43.2644888",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "23097200",
+		"name": "Cooperativa Projeto ATOS",
+		"district": "Santissimo",
+		"address": "Rua Ivan Pessoa, 341",
+		"lat_long": "-22.8788972,-43.516746",
+		"material": "Plástico, Metal, Papel, Vidro, Tubo Dental, Tecido"
+	},
+	{
+		"city": "Taubaté / SP",
+		"postal_code": "12060640",
+		"name": "Cooperativa Re-Si-Clando de Taubaté",
+		"district": "Vila Marli",
+		"address": "R. Monsenhor Miguel Martins, 117",
+		"lat_long": "-23.0309385,-45.5483236",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "cajati / SP",
+		"postal_code": "119500000",
+		"name": "cooperativa recicla cajati",
+		"district": "barro branco",
+		"address": "estrada barro branco s/n",
+		"lat_long": "-24.7299329,-48.1027918",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Vidro, Longa Vida, Lâmpadas, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Três Rios / RJ",
+		"postal_code": "25803010",
+		"name": "Cooperativa Recicla Tres Rios",
+		"district": "Centro",
+		"address": "Rua Pref. Walter Franklin , 13 loja 1",
+		"lat_long": "-22.1182771,-43.2095385",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Piracicaba / SP",
+		"postal_code": "19290000",
+		"name": "Cooperativa Reciclador Solidário",
+		"district": "Distrito Industria Unileste",
+		"address": "Rua Eugenio Losso 955",
+		"lat_long": "-22.7245485,-47.5914122",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Amparo / SP",
+		"postal_code": "13905509",
+		"name": "Cooperativa Coopertiva Força União",
+		"district": "Centro",
+		"address": "Rua Sidney Corsi, 560",
+		"lat_long": "-22.7012109,-46.7642903",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "20931001",
+		"name": "Cooperativa COOPGuanabara",
+		"district": "Bonsucesso",
+		"address": "Rua Flavio Farnezio,168",
+		"lat_long": "-22.8630556,-43.2530556",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Santa Maria / RS",
+		"postal_code": "97095-000",
+		"name": "Cooperativa COOTTRUL LTDA",
+		"district": "São José",
+		"address": "Av. João Luiz Pozzobon, 2145/304",
+		"lat_long": "-29.6935554,-53.7821323",
+		"material": "Plástico, Metal, Papel, Pilha, Vidro, Longa Vida"
+	},
+	{
+		"city": "Guajara-mirim / RO",
+		"postal_code": "76850000",
+		"name": "cooperativa curumim",
+		"district": "prospero",
+		"address": "av;princesa isabel nº 4874",
+		"lat_long": "-10.7909259,-65.332216",
+		"material": "Plástico, Metal, Pneu, Papel"
+	},
+	{
+		"city": "MARECHAL CANDIDO RONDON / PR",
+		"postal_code": "85960000",
+		"name": "COOPERATIVA DE AGENTES AMBIENTAIS (COOPERAGIR)",
+		"district": "CENTRO",
+		"address": "RUA D. JÕAO VI",
+		"lat_long": "-24.5566913,-54.0567263",
+		"material": "Plástico, Metal, Papel, Vidro, Tubo Dental, Óleo"
+	},
+	{
+		"city": "MARECHAL CANDIDO RONDON / PR",
+		"postal_code": "85960000",
+		"name": "COOPERATIVA DE AGENTES AMBIENTAIS (COOPERAGIR)",
+		"district": "centro",
+		"address": "RUA D. JÕAO VI - 1151",
+		"lat_long": "-24.5566913,-54.0567263",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Botucatu / SP",
+		"postal_code": "18600000",
+		"name": "cooperativa de agentes ambientais de botucatu",
+		"district": "",
+		"address": "rodovia eduardo zucari km 2",
+		"lat_long": "-22.8903957,-48.4553087",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Ribeirão  Preto / SP",
+		"postal_code": "14031734",
+		"name": "COOPERATIVA DE AGENTES AMBIENTAIS MAOS DADAS",
+		"district": "JD. BRANCA SALES",
+		"address": "RUA JORGE TEIXEIRA DE ANDRADE, 200",
+		"lat_long": "-21.1766574,-47.8207619",
+		"material": "Plástico, Metal, Papel, Vidro, Óleo"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04855515",
+		"name": "COOPERATIVA DE CATADORES (AS) SELETIVOS (AS) DO PARQUE COCAIA DE SÃO P",
+		"district": "JARDIM CHÁCARA DO SOL - GRAJAÚ",
+		"address": "ESTRADA DO SCHMIDT, 2999",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Aparecida / SP",
+		"postal_code": "",
+		"name": "Cooperativa de Catadores de Aparecida",
+		"district": "Santa Terezinha",
+		"address": "R. Chico Palma, 07",
+		"lat_long": "-20.5102703,-47.4017416",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "IPATINGA / MG",
+		"postal_code": "35164290",
+		"name": "Cooperativa de Catadores de Materiais Reciclaveis da região metropolit",
+		"district": "VENEZA",
+		"address": "RUA TEREZINA 516",
+		"lat_long": "-19.4692583,-42.5265062",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio Branco / AC",
+		"postal_code": "",
+		"name": "Cooperativa de Catadores de Materiais Recicláveis e Reut. do Acre",
+		"district": "",
+		"address": "Distrito Industrial Zona C Lote 1",
+		"lat_long": "-22.4068479,-47.5727992",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Nova Friburgo / RJ",
+		"postal_code": "28630230",
+		"name": "Cooperativa de Catadores de Nova Friburgo",
+		"district": "Córrego Dantas",
+		"address": "RJ 130 KM 63",
+		"lat_long": "-22.2871356,-42.5336979",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Recife / PE",
+		"postal_code": "51170620",
+		"name": "Cooperativa de Catadores Profissionais do Recife - PRORECIFE",
+		"district": "Imbiribeira",
+		"address": "Rua Antonio Cardoso da Fonte, 483",
+		"lat_long": "-8.0970748,-34.9194759",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Vitória da Conquista / BA",
+		"postal_code": "45000000",
+		"name": "Cooperativa de Catadores Recicla Conquista",
+		"district": "Morada dos Passos II",
+		"address": "Av. Juracy Magalhães, 2790",
+		"lat_long": "-14.8510197,-40.8485458",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São José do Rio Preto / SP",
+		"postal_code": "15030000",
+		"name": "Cooperativa de Coleta Seletiva, Beneficiamento e Transformação de Mate",
+		"district": "Distrito Industrial",
+		"address": "Av. Cenobelino de Barros Serra 884",
+		"lat_long": "-20.7978954,-49.3937353",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Lauro de Freitas / BA",
+		"postal_code": "42700000",
+		"name": "Cooperativa de Coleta Seletiva, Reciclagem Amigos do Planeta",
+		"district": "Portão",
+		"address": "Lot. Solar União, 23",
+		"lat_long": "-12.8937825,-38.3275025",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Itapira / SP",
+		"postal_code": "13971-035",
+		"name": "Cooperativa de Itapira",
+		"district": "Penha do Rio do Peixe",
+		"address": "Rua Hermes Osorio de Oliveira, 249",
+		"lat_long": "-22.4359758,-46.8219798",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "taubaté / SP",
+		"postal_code": "12043000",
+		"name": "Cooperativa de materiais reaproveitaveis de taubaté",
+		"district": "cecap III",
+		"address": "paulo wagner de barros santos  n-189",
+		"lat_long": "-23.0309385,-45.5483236",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Jacareí / SP",
+		"postal_code": "",
+		"name": "Cooperativa de Catadores de Recicláveis Jacareí Recicla",
+		"district": "Cidade Salvador",
+		"address": "R. Bom Jesus, 1090",
+		"lat_long": "-12.9202855,-38.4693576",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Itabuna / BA",
+		"postal_code": "45700000",
+		"name": "Cooperativa de Catadores Itairó",
+		"district": "Centro",
+		"address": "Av.Itabuna,33",
+		"lat_long": "-14.7892789,-39.2778038",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Tecido"
+	},
+	{
+		"city": "Franca / SP",
+		"postal_code": "14401-000",
+		"name": "Cooperativa de Materiais Recicláveis de Franca",
+		"district": "Centro",
+		"address": "Av. Champagnat, 1750",
+		"lat_long": "-20.5434886,-47.4024807",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itapeva / SP",
+		"postal_code": "18401050",
+		"name": "Cooperativa de Materiais Recicláveis de Itapeva",
+		"district": "Barracão",
+		"address": "Rua Franciso Lima n° 180",
+		"lat_long": "-23.967626,-48.9009935",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São José dos Campos / SP",
+		"postal_code": "12200100",
+		"name": "COOPERATIVA DE MATERIAIS RECICLÁVEIS SÃO VICENTE",
+		"district": "CAJURU",
+		"address": "ESTRADA DO CAJURU, 191",
+		"lat_long": "-23.1790801,-45.8872476",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Pirapora / MG",
+		"postal_code": "39270000",
+		"name": "Cooperativa de Produção Artesanal COOPRARTE",
+		"district": "N. Sra. Aparecida",
+		"address": "Rua Bernardino Barbosa, 22",
+		"lat_long": "-17.3359004,-44.8979784",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "08295030",
+		"name": "Cooperativa de producao coleta triagem",
+		"district": "ITAQUERA",
+		"address": "rua sao felix do piaui, 1221",
+		"lat_long": "-23.5533123,-46.4558677",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05428010",
+		"name": "COOPERATIVA DE PRODUÇÃO DOS TRABALHADORES EM MATERIAS DE SÃO PAULO - C",
+		"district": "PINHEIROS",
+		"address": "RUA SUMIDOURO, 580",
+		"lat_long": "-23.5649123,-46.7014797",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "20930390",
+		"name": "COOPERATIVA DE RECICLADORES AMBIENTAIS TRANSFORMANDO",
+		"district": "CAJU",
+		"address": "RUA PETER LUND, 38 BLOCO",
+		"lat_long": "-22.8828623,-43.2251812",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itupeva / SP",
+		"postal_code": "13295000",
+		"name": "COOPERATIVA DE RECICLADORES DE ITUPEVA",
+		"district": "Guacuri",
+		"address": "estrada da servidão da Fazenda Fenix-s/nº",
+		"lat_long": "-23.1521587,-47.0576758",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Jaguariuna / SP",
+		"postal_code": "13820000",
+		"name": "Cooperativa de Recicladores de Jaguariuna",
+		"district": "Guedes",
+		"address": "Av. Pacifico Moneda, 1051",
+		"lat_long": "-22.7057713,-46.9862429",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Belém / PA",
+		"postal_code": "66077110",
+		"name": "COOPERATIVA DOS CATADORES DE MATERIAIS RECICLÁVEIS - CONCAVES",
+		"district": "Terra Firme",
+		"address": "Passagem Brasília, 125",
+		"lat_long": "-1.4580256,-48.4607536",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Madeira, Borracha"
+	},
+	{
+		"city": "São Bento do Sul / SC",
+		"postal_code": "89280328",
+		"name": "Cooperativa dos Catadores de Material Reciclável de São Bento do Sul",
+		"district": "Brasilia",
+		"address": "Rua Inês Muller Pscheidt, 96",
+		"lat_long": "-26.2474804,-49.3813456",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Petrolina / PE",
+		"postal_code": "56300000",
+		"name": "Cooperativa dos Catadores de Petrolina - Renascer",
+		"district": "Don Avelar",
+		"address": "Av. do Sentimento, 320",
+		"lat_long": "-9.3941569,-40.5096046",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "TRINDADE / GO",
+		"postal_code": "75380000",
+		"name": "Cooperativa dos Catadores de Residuos Solidos - COOPERSOL",
+		"district": "Setor Cristina I",
+		"address": "Rua 07 de Setembro- Área 14 nº 48",
+		"lat_long": "-16.6476877,-49.496839",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Tubo Dental"
+	},
+	{
+		"city": "Araxá / MG",
+		"postal_code": "38183970",
+		"name": "Cooperativa dos produtores de materiais reciclaveis de araxa ltda",
+		"district": "Vila silveria",
+		"address": "Rua Argeu Alves da costa nº60",
+		"lat_long": "-19.5940015,-46.9409653",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Óleo"
+	},
+	{
+		"city": "Uberlândia / MG",
+		"postal_code": "38406280",
+		"name": "COOPERATIVA DOS RECICLADORES DE UBERLANDIA",
+		"district": "JARDIM IPANEMA",
+		"address": "AV. SIDERAL, 1889",
+		"lat_long": "-18.9113046,-48.2621925",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tinta, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Ubatuba / SP",
+		"postal_code": "11680000",
+		"name": "Cooperativa dos Trabalhadores da Deposição Coleta e Reciclagem de Lixo",
+		"district": "Centro",
+		"address": "Hans Staden 908/05",
+		"lat_long": "-23.4338613,-45.0857105",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Birigui / SP",
+		"postal_code": "16200-000",
+		"name": "Cooperativa dos Trabalhadores de Birigui",
+		"district": "Recanto Verde",
+		"address": "Av. Antonio da Silva Nunes, 2726",
+		"lat_long": "-21.2634219,-50.3294775",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Carapicuiba / SP",
+		"postal_code": "06328180",
+		"name": "Cooperativa dos Trabalhadores de Coleta Seletiva de Lixo de Carapicuib",
+		"district": "Vila Municipal",
+		"address": "R. Saara, 300",
+		"lat_long": "-23.5192226,-46.8367395",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Ouro Fino / MG",
+		"postal_code": "37570000",
+		"name": "COOPERATIVA DOS TRABALHADORES EM COLETA DE MATERIAL RECICLÁVEL - COORE",
+		"district": "DA VARZEA",
+		"address": "CAETANO VITOR, 184",
+		"lat_long": "-22.2837794,-46.3672111",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Juquitiba / SP",
+		"postal_code": "06950000",
+		"name": "COOPERATIVA DOS TRABALHADORES EM RECICLAGEM DE JUQUITIBA",
+		"district": "CENTRO",
+		"address": "AV. DA SAUDADE - N 70.000",
+		"lat_long": "-23.9326334,-47.0668726",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Santo Ângelo / RS",
+		"postal_code": "98801-240",
+		"name": "Cooperativa Ecos do Verde-RS",
+		"district": "Oliveira",
+		"address": "Rua São João, 764",
+		"lat_long": "-28.3002959,-54.263507",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São José dos Campos / SP",
+		"postal_code": "12000000",
+		"name": "Cooperativa Futura de São José dos Campos",
+		"district": "Jardim Imperial",
+		"address": "Rua Julio Baranov, 110",
+		"lat_long": "-23.2805858,-45.8987643",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Havilá",
+		"district": "Vila Boa Vista",
+		"address": "R. Cambarás, 670",
+		"lat_long": "-22.8820246,-47.125692",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Madeira, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "04777-020",
+		"name": "Cooperativa Lixo Porquê",
+		"district": "Vila Maria",
+		"address": "Av. Robert Kennedy, 6050",
+		"lat_long": "-23.7168753,-46.7049207",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "Guaratinguetá / SP",
+		"postal_code": "12515-160",
+		"name": "Cooperativa Amigos do Lixo Guaratingueta",
+		"district": "Pedregulho",
+		"address": "Rua Afonso Giannico, 700",
+		"lat_long": "-22.8159396,-45.1932773",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Nossa Senhora Aparecida / SP",
+		"postal_code": "12570000",
+		"name": "Cooperativa Anjos da Limpeza",
+		"district": "Nossa Senhora do Perpetuo Socorro",
+		"address": "Rua Clementina de Castro, 01",
+		"lat_long": "-20.8259649,-49.4961895",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Aparecida / SP",
+		"postal_code": "",
+		"name": "Cooperativa Anjos da Limpeza",
+		"district": "Perpetuo Socorro",
+		"address": "R. Clementino de Castro, 01",
+		"lat_long": "-22.8479547,-45.2274107",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "13150-000",
+		"name": "Cooperativa Antonio da Costa Santos",
+		"district": "Centro",
+		"address": "Av. Dois, s/n",
+		"lat_long": "-22.9370448,-47.0838843",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Campinas / SP",
+		"postal_code": "",
+		"name": "Cooperativa Antônio da Costa Santos",
+		"district": "Satélite Iris 2",
+		"address": "Av. dois, s/n",
+		"lat_long": "-22.9487288,-47.1150046",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Lâmpadas, Eletrônicos"
+	},
+	{
+		"city": "Barão Geraldo / SP",
+		"postal_code": "13082780",
+		"name": "Cooperativa Barão Geraldo",
+		"district": "Real Parque",
+		"address": "R. Rodrigo Ribeiro de Melo, 121",
+		"lat_long": "-22.8270626,-47.0970598",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "21011020",
+		"name": "Cooperativa Beija Flor",
+		"district": "Penha Circular",
+		"address": "Rua da Batata,  990",
+		"lat_long": "-22.8164917,-43.2734903",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90020023",
+		"name": "Cooperativa Brasileira de Ajuda Mútua de Amigos de Bairros Ltda.- COOB",
+		"district": "Centro",
+		"address": "Av. Borges de Medeiros, 549/ 201",
+		"lat_long": "-30.0313922,-51.2278173",
+		"material": "Plástico"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02001000",
+		"name": "Cooperativa Caminho Certo",
+		"district": "Vila Nova Curuça",
+		"address": "Rua Jequirana de Goiás, 103",
+		"lat_long": "-23.5168969,-46.4287904",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02357130",
+		"name": "Cooperativa Cantareira Viva",
+		"district": "Vila Albertina",
+		"address": "Rua Alagoa da roça, 95",
+		"lat_long": "-23.4451925,-46.6125112",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Tecido, Óleo, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03160000",
+		"name": "COOPERATIVA CENTRAL TIETE",
+		"district": "Tatuapé",
+		"address": "AV; salin farah maluf , 179",
+		"lat_long": "-23.5318041,-46.5834724",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Óleo"
+	},
+	{
+		"city": "Santo André / SP",
+		"postal_code": "",
+		"name": "Cooperativa Cidade Limpa",
+		"district": "Pq. Gerassi",
+		"address": "Rua Fernando Costa, s/n",
+		"lat_long": "-23.6800792,-46.4901736",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "22280005",
+		"name": "Cooperativa Compromisso Ambiental",
+		"district": "Barra da Tijuca",
+		"address": "Rua Vitor Civita, 66",
+		"lat_long": "-22.9743535,-43.3673687",
+		"material": "Plástico, Metal, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Caraguatatuba / SP",
+		"postal_code": "11662630",
+		"name": "Cooperativa Cooper Catatudo",
+		"district": "Caputera",
+		"address": "Rua 3, 121",
+		"lat_long": "-23.622528,-45.4119006",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Caçapava / SP",
+		"postal_code": "12280000",
+		"name": "Cooperativa Coopercicle",
+		"district": "Eldorado",
+		"address": "Rua Engenheiro Agronomo N. F. Francisco, 20",
+		"lat_long": "-23.1020353,-45.706876",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Içara / SC",
+		"postal_code": "88820000",
+		"name": "Cooperaliança",
+		"district": "Centro",
+		"address": "Rua Ipiranga, 333",
+		"lat_long": "-28.7138212,-49.3005908",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São João de Mereti / RJ",
+		"postal_code": "25575089",
+		"name": "CooperAngel",
+		"district": "Jd Metropoles",
+		"address": "R. Telefonica, 100",
+		"lat_long": "-22.7599298,-43.3306963",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Hortolândia / SP",
+		"postal_code": "13185793",
+		"name": "COOPERAR - Cooperativa de Reciclagem Unidos Para Vender",
+		"district": "Jd Rosolém",
+		"address": "Rua Emma Frederici , 736",
+		"lat_long": "-22.8997793,-47.1765373",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Araranguá / SC",
+		"postal_code": "88900000",
+		"name": "COOPERAR - Cooperativa de Trabalho e Produção dos Recicladores de Arar",
+		"district": "Lagoão",
+		"address": "Rodovia Municipal ARA 234, Nº 515",
+		"lat_long": "-28.9356371,-49.4863711",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Lâmpadas, Eletrônicos"
+	},
+	{
+		"city": "Araxá / MG",
+		"postal_code": "38184200",
+		"name": "COOPERARE - Cooperativa dos Produtores de Materiais Recicláveis de Ara",
+		"district": "Fertiza",
+		"address": "Av. José Ananias de Aguiar, 1330",
+		"lat_long": "-19.5940015,-46.9409653",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tecido, Óleo"
+	},
+	{
+		"city": "Araranguá / SC",
+		"postal_code": "88900000",
+		"name": "COOPERATIVA",
+		"district": "LAGOÃO",
+		"address": "Rod Municipal ARA234, 595, Lagoão",
+		"lat_long": "-28.9356371,-49.4863711",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Marechal Candido Rondon / PR",
+		"postal_code": "85960000",
+		"name": "Cooperativa  de Agentes Ambientais (COOPERAGIR)",
+		"district": "Centro",
+		"address": "Rua Dom João V",
+		"lat_long": "-24.5566913,-54.0567263",
+		"material": "Pneu, Bateria, Tinta, Lâmpadas, Borracha"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "22471330",
+		"name": "Cooperativa - COOPAMA",
+		"district": "Maria da Graça",
+		"address": "Rua Miguel Angelo, 385",
+		"lat_long": "-22.8860328,-43.2644888",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Brasília / DF",
+		"postal_code": "71771140",
+		"name": "Cooperativa 100 Dimensão",
+		"district": "Riacho Fundo II",
+		"address": "QN 14-D, Conjunto 3, Casa 2",
+		"lat_long": "-15.7801482,-47.9291698",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Borracha"
+	},
+	{
+		"city": "Sumaré / SP",
+		"postal_code": "13180370",
+		"name": "Cooperativa Aliança de Coleta e Manuseio de Recicláveis São Judas Tade",
+		"district": "Cond. Coronel",
+		"address": "Rua São Simão, 536, Matão",
+		"lat_long": "-22.8216149,-47.2664362",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02352000",
+		"name": "Cooperativa Amantes da Natureza e recicla sampa",
+		"district": "furnas",
+		"address": "rua uschikik  kamya ,1055",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Barra Mansa / RJ",
+		"postal_code": "25050510",
+		"name": "Cooperativa Ambiental",
+		"district": "Saudade",
+		"address": "Av. Homero Leite, 254",
+		"lat_long": "-22.5453514,-44.169848",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Pelotas / RS",
+		"postal_code": "96010150",
+		"name": "COOPERATIVA AMBIENTAL DE PRESTAÇÃO DE SERVIÇOS E AÇÃO SOCIAL -COOPERBR",
+		"district": "CENTRO",
+		"address": "RUA LOBO DA COSTA, 1274",
+		"lat_long": "-31.7696921,-52.3440782",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Capão Bonito / SP",
+		"postal_code": "18300000",
+		"name": "Cooperativa Amiga dos Catadores de Materiais Recicláveis",
+		"district": "Guanabara",
+		"address": "Rua Francisco Barreto nº 1364",
+		"lat_long": "-24.0039478,-48.3394818",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "Coop. Granja Julieta",
+		"district": "Santo Amaro",
+		"address": "R. Carmo do Rio Verde, 553",
+		"lat_long": "-23.6401441,-46.7166447",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05410030",
+		"name": "COOPAMARE",
+		"district": "Pinheiros",
+		"address": "Rua Galeno de Almeida, 659",
+		"lat_long": "-23.5538232,-46.6795485",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "NITEROI / RJ",
+		"postal_code": "24210050",
+		"name": "COOPCANIT (COOPERATIVA DE CATADORES DE NITEROI )",
+		"district": "CENTRO",
+		"address": "RUA PADRE ANCHIETA N°72",
+		"lat_long": "-22.8976705,-43.1211402",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Mesquita / RJ",
+		"postal_code": "26230180",
+		"name": "COOPCARMO - Reciclagem Comunitária Nossa Senhora do Carmo",
+		"district": "Jacutinga",
+		"address": "Rua Guarani, 405",
+		"lat_long": "-22.7689699,-43.4150922",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Barra Mansa / RJ",
+		"postal_code": "27325002",
+		"name": "COOPCAT - COOPERATIVA MISTA DOS CATADORES DE MATERIAIS RECICLÁVEIS DE",
+		"district": "Ano Bom",
+		"address": "Av. Presidente Kennedy - n° 3.050",
+		"lat_long": "-22.5453514,-44.169848",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Diadema / SP",
+		"postal_code": "",
+		"name": "COOPCENT - ABC",
+		"district": "",
+		"address": "R. Caracas, 35",
+		"lat_long": "-23.6844711,-46.613239",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tecido, Eletrônicos"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40300756",
+		"name": "Coopcicla",
+		"district": "Sete Portas",
+		"address": "Ru Conego Pereira",
+		"lat_long": "-12.9703817,-38.512382",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "Santo André / SP",
+		"postal_code": "09111660",
+		"name": "COOPCICLA Cooperativa de Reciclagem de Santo André",
+		"district": "Pq. Gerassi",
+		"address": "Rua Fernando Costa, s/n",
+		"lat_long": "-23.6800792,-46.4901736",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Madeira"
+	},
+	{
+		"city": "Cubatão / SP",
+		"postal_code": "11500310",
+		"name": "coopcolre coop.trab.prof.serv.col.lixo recic.estado  de SP.",
+		"district": "vila couto",
+		"address": "rua fernando costa, s/n",
+		"lat_long": "-23.8839326,-46.4266423",
+		"material": "Plástico, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "30664000",
+		"name": "COOPEMAR Oeste",
+		"district": "Vale do Jatobá",
+		"address": "Av. Solferina Ricci Pace, 1250",
+		"lat_long": "-20.003134,-44.0438779",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Ouro Branco do Sul / MA",
+		"postal_code": "",
+		"name": "Cooper Branco. Cooperativa dos trabalhadores da Reciclagem de Ouro Bra",
+		"district": "Ouro Branco",
+		"address": "rua das andorinhas,q 18, l 13",
+		"lat_long": "42.4072107,-71.3824374",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Óleo, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Goiânia / GO",
+		"postal_code": "",
+		"name": "COOPER-RAMA - Cooperativa Reciclamos e Amamos o Meio Ambiente",
+		"district": "Jd Curitiba III",
+		"address": "Rua JC 66 Qd.145 Lt.18",
+		"lat_long": "-16.6116799,-49.3374819",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03175010",
+		"name": "Cooperaacs- Cooperativa de Arte Alternativa e Coleta Seletiva",
+		"district": "Belém",
+		"address": "Rua Serra de Jairé ,597",
+		"lat_long": "-23.5483687,-46.5861829",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05400000",
+		"name": "COOPERACAO - Vl. Leopoldina",
+		"district": "Vila Leopoldina",
+		"address": "Rua Froben, 101",
+		"lat_long": "-23.5311599,-46.7320257",
+		"material": "Plástico, Metal, Papel, Pilha, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Cascavel / PR",
+		"postal_code": "85813-100",
+		"name": "COOPERAGE- Cooperativa de Agentes Ecológicos",
+		"district": "Country",
+		"address": "Rua Manaus, 1524",
+		"lat_long": "-24.9427548,-53.4567191",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Sapucaia do Sul / RS",
+		"postal_code": "93214030",
+		"name": "BRASMERKO",
+		"district": "Dihel",
+		"address": "Rua Bage, 103",
+		"lat_long": "-29.842036,-51.1462151",
+		"material": "Metal"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "0444000",
+		"name": "C P C T B DE MAT. RECICLÁVEIS MIGUEL YUNES",
+		"district": "DISTRITO USINA PIRATININGA",
+		"address": "AV. MIGUEL YUNES, 347",
+		"lat_long": "-23.5005774,-46.5362393",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Eletrônicos"
+	},
+	{
+		"city": "Lauro de Freitas / BA",
+		"postal_code": "42700000",
+		"name": "CAEC - Lauro de Fretias",
+		"district": "Caji",
+		"address": "Rua Dr. Gerino de Souza Filho, s/n",
+		"lat_long": "-12.8937825,-38.3275025",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "41253-070",
+		"name": "CAEC- Cooperativa de Catadores Agentes Ecológicos de Canabrava",
+		"district": "",
+		"address": "Rua da Mauritânia, s/n",
+		"lat_long": "-12.9190755,-38.4545475",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "",
+		"name": "CALMA – Catadores Associados para Limpeza do Meio Ambiente",
+		"district": "Glória",
+		"address": "Rua 1º de Julho, 216",
+		"lat_long": "-3.1227449,-60.0338962",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40411560",
+		"name": "CAMAPET Cooperativa de coleta Seletiva, Processamento de Plástico e Pr",
+		"district": "Baixa do fiscal",
+		"address": "Rua Luiz Maria s/n Armazém I do Galpão da Leste",
+		"lat_long": "-12.9703817,-38.512382",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "",
+		"name": "CANORE",
+		"district": "Santa Cruz",
+		"address": "Av. Nova República, 489",
+		"lat_long": "-13.003001,-38.4732318",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Aracaju / SE",
+		"postal_code": "49037000",
+		"name": "CARE - Cooperativa dos Agentes Autônomos de Reciclagem de Aracaju",
+		"district": "bairro Santa Maria",
+		"address": "Rua A5, nº 150",
+		"lat_long": "-10.919731,-37.0506707",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "80215010",
+		"name": "CATAMARE - COOPERATIVA DE CATADORES DE MATERIAIS RECICLÁVEIS CURITIBA",
+		"district": "Rebouças",
+		"address": "R. Reinaldo Machado, 33",
+		"lat_long": "-25.4429526,-49.2592768",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Porto Velho / RO",
+		"postal_code": "76808695",
+		"name": "CATANORTE - Cooperativa de Reciclagem de Catadores e Catadoras de Mate",
+		"district": "Vila Princesa",
+		"address": "Estrada da Rema, s/nº, km 11 da BR-364",
+		"lat_long": "-8.7618253,-63.90196",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "69054702",
+		"name": "CDI AMAZÔNIA",
+		"district": "Parque 10",
+		"address": "Rua B n. 01 Shangri-la I",
+		"lat_long": "-3.1064093,-60.0264297",
+		"material": "Plástico, Metal, Pilha, Eletrônicos"
+	},
+	{
+		"city": "Brasilia / DF",
+		"postal_code": "70392900",
+		"name": "CENTCOOP – Central das Cooperativas de mat. recicl. do DF",
+		"district": "",
+		"address": "SDS Venâncio II sala 511",
+		"lat_long": "-15.826691,-47.9218204",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "08032010",
+		"name": "Central de Triagem Nova Conquista",
+		"district": "Itaim Paulista",
+		"address": "Rua Cembira,1100",
+		"lat_long": "-23.5058244,-46.4290229",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Matéria Orgânica"
+	},
+	{
+		"city": "São Bernardo do Campo / SP",
+		"postal_code": "09693-200",
+		"name": "Centro Comunitário Beneficiente e Cultura N. Sra. Aparecida",
+		"district": "",
+		"address": "Av. Alvaro Alvim, 615",
+		"lat_long": "-23.6674351,-46.5840915",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "41219600",
+		"name": "Centro de Apoio Social aos Adolescentes e Idosos da Bahia",
+		"district": "Santo Inacio-Mata Escura",
+		"address": "Avenida Cardeal Dom Avelar Brandão Vilela nº 1049",
+		"lat_long": "-12.9328837,-38.4560755",
+		"material": "Plástico, Pneu, Papel, Longa Vida, Borracha"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "03804010",
+		"name": "ASSOCIAÇÃO DE TRANSFORMAÇÃO SOCIAL CRISTO JESUS",
+		"district": "ERMELINO MATARAZZO",
+		"address": "RUA RUBENS GALVÃO DE FRANÇA,345",
+		"lat_long": "-23.5025188,-46.4850913",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Colatina / ES",
+		"postal_code": "29707130",
+		"name": "Associação dos Agentes Ambientais  de Colatina - ARECICOL",
+		"district": "Marista",
+		"address": "Rua Benjamim Costa, 105",
+		"lat_long": "-19.5381608,-40.6324359",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Dourados / MS",
+		"postal_code": "79810120",
+		"name": "Associação dos Agentes Ecológicos de Dourados-AGECOLD",
+		"district": "Vila Sulmat",
+		"address": "RUA PEDRO RIGOTTI,1461",
+		"lat_long": "-22.231828,-54.7962875",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Brasília / DF",
+		"postal_code": "71680370",
+		"name": "Associação dos Artesãos do Meio Ambiente",
+		"district": "Asa Norte",
+		"address": "SCLN 302 bolco E loja 3",
+		"lat_long": "-15.7528696,-47.8904659",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Gravataí / RS",
+		"postal_code": "94710070",
+		"name": "Associação dos Carroceiros e Catadores de Material Reciclável",
+		"district": "Estrada Henrique Closs",
+		"address": "Rua Pedro Vaz de Caminha , 125",
+		"lat_long": "-29.8891892,-51.0694816",
+		"material": "Plástico, Metal, Papel, Vidro, Tubo Dental"
+	},
+	{
+		"city": "PAINS / MG",
+		"postal_code": "35582000",
+		"name": "ASSOCIAÇÃO DOS CATADORES AMIGOS DE PAINS - ACAP",
+		"district": "CENTRO",
+		"address": "RUA JOSÉ VELOSO, 22",
+		"lat_long": "-20.3703368,-45.6570714",
+		"material": "Plástico, Metal, Papel, Vidro, Tubo Dental, Óleo, Madeira"
+	},
+	{
+		"city": "São José do Vale do Rio Preto / RJ",
+		"postal_code": "25780000",
+		"name": "Associação dos Catadores das Pedras Brancas",
+		"district": "Pedras Brancas",
+		"address": "Rua Waldomiro de Souza, 27, Pedras brancas",
+		"lat_long": "-22.153048,-42.9253264",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Vidro, Longa Vida, Lâmpadas, Matéria Orgânica, Borracha"
+	},
+	{
+		"city": "Arujá / SP",
+		"postal_code": "07400000",
+		"name": "Associação dos Catadores de Arujá e Região - CORA Ação e Cidadania",
+		"district": "CENTRO RESIDENCIAL",
+		"address": "RUA ANA MARIA MOREIRA CORONADO, Nº 80",
+		"lat_long": "-23.3964516,-46.3214444",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81580000",
+		"name": "Associação dos Catadores de Mat. Rec. Natureza Livre",
+		"district": "Uberaba",
+		"address": "Av. Senador Salgado Filho, 7403/7482",
+		"lat_long": "-25.5025056,-49.2097857",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81920710",
+		"name": "Associação dos Catadores de Mat. Recicl. MUTIRÃO",
+		"district": "Bairro Novo",
+		"address": "R. Ana Biscaia de Andrade, 92",
+		"lat_long": "-25.4283563,-49.2732515",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81350080",
+		"name": "Associação dos Catadores de Mat. Recicláveis NOVO Amanhecer",
+		"district": "CIC",
+		"address": "R. Luiz Valenza, 163",
+		"lat_long": "-25.4283563,-49.2732515",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81650120",
+		"name": "Associação dos Catadores de Mat. Recicláveis Sociedade Barracão",
+		"district": "Boquierão",
+		"address": "R. O Brasil Para Cristo, 751",
+		"lat_long": "-25.4912238,-49.2328558",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "",
+		"name": "Associação dos Catadores de Materiais Recicláveis Água Nascente",
+		"district": "Boqueirão - Vila Pantanal",
+		"address": "R. Maestro Carlos Frank, 704",
+		"lat_long": "-25.516351,-49.2259901",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "",
+		"name": "Associação dos Catadores de Materiais Recicláveis Amigos da Natureza",
+		"district": "Pinheirinho",
+		"address": "R. Durval Jungles, 242",
+		"lat_long": "-25.5236628,-49.2922615",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Canoas / RS",
+		"postal_code": "92000000",
+		"name": "COOARLAS",
+		"district": "Parque São José",
+		"address": "Rua Bela Vista, 14",
+		"lat_long": "-29.8870147,-51.1359124",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Feira de Santana / BA",
+		"postal_code": "44100000",
+		"name": "COOBAFS - Cooperativa dos Badameiros de Feira de Santana",
+		"district": "",
+		"address": "Av. João Durval Carneiro, 3311A",
+		"lat_long": "-12.2479052,-38.9485841",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Assis / SP",
+		"postal_code": "19806700",
+		"name": "Coocassis - Cooperativa de catadores de materiais reciclaveis de Assis",
+		"district": "parque universitario",
+		"address": "av mario de vito 594",
+		"lat_long": "-22.6606373,-50.404369",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Coração de Maria / BA",
+		"postal_code": "",
+		"name": "Cooempo - Cooperativa de Empreendedores Populares",
+		"district": "centro",
+		"address": "Pra Dr. Araujo Pinho, 14",
+		"lat_long": "-12.2336231,-38.7453558",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "São Carlos / SP",
+		"postal_code": "13572-000",
+		"name": "Cooletiva",
+		"district": "Centro",
+		"address": "Rua Jucelino Kubitchek, SN",
+		"lat_long": "-22.0132923,-47.89085",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Ribeirão das Neves / MG",
+		"postal_code": "",
+		"name": "Coomarrin",
+		"district": "Status",
+		"address": "R. João Lelis Nogueira Filho",
+		"lat_long": "-19.765938,-44.0870225",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "ABAETETUBA / PA",
+		"postal_code": "68440000",
+		"name": "COOMCLIMA - COOP. DE CATADORES DE MAT. RECICLÁVEL DE ABAETETUBA",
+		"district": "ZONA RURAL",
+		"address": "ROD. DR. JOÃO MIRANDA KM 11",
+		"lat_long": "-1.7295061,-48.8742526",
+		"material": "Plástico, Metal, Papel, Óleo, Matéria Orgânica"
+	},
+	{
+		"city": "PARAUAPEBAS / PA",
+		"postal_code": "68515000",
+		"name": "COOMTRESP",
+		"district": "",
+		"address": "",
+		"lat_long": "-6.070741,-49.9043353",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Mesquita / RJ",
+		"postal_code": "26572481",
+		"name": "COOMUB - Cooperativa Popular de Reciclagem e Serviços Mulheres da Baix",
+		"district": "Rocha Sobrinho",
+		"address": "R. Coelho da Rocha, 2500",
+		"lat_long": "-22.7854343,-43.4142576",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Guarulhos / SP",
+		"postal_code": "07160670",
+		"name": "Coop - Reciclável",
+		"district": "Jardim Novo Portugal",
+		"address": "Rua Benfica, 15 casa 2",
+		"lat_long": "-23.4634523,-46.5334502",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Barreiras / BA",
+		"postal_code": "47805250",
+		"name": "Coop Catadores de Material Reciclavel de Barreiras e Região Oeste",
+		"district": "Centro",
+		"address": "Rua das Varzeas, 497",
+		"lat_long": "-12.1477468,-44.9951082",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "25581060",
+		"name": "coop novo rio",
+		"district": "parque tiete",
+		"address": "rua iguaba lote 10 quadra 02",
+		"lat_long": "-22.7877595,-43.3342767",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Óleo, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40715290",
+		"name": "Coop. de Reciclagem e Serviços do Subúrbio |Ferroviário",
+		"district": "Ilha Amarela",
+		"address": "Rua Boa Esperanca de Ilha Amarela 84",
+		"lat_long": "-12.9183605,-38.4808027",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Viamão / RS",
+		"postal_code": "94410500",
+		"name": "Associação dos recicladores de Viamão",
+		"district": "Meandanha, parada 56",
+		"address": "Av.Meandanha, 70.",
+		"lat_long": "-30.088358,-51.0237895",
+		"material": "Plástico, Metal, Pneu, Papel, Longa Vida, Óleo, Madeira, Borracha"
+	},
+	{
+		"city": "Viçosa / MG",
+		"postal_code": "35570000",
+		"name": "Associação dos Trabalhadores da Usina de Triagem e Reciclagem",
+		"district": "Viçosa/Coimbra",
+		"address": "BR 120Km, 06",
+		"lat_long": "-20.7545902,-42.8825242",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Tecido, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "69058581",
+		"name": "ASSOCIAÇÃO DOS TRABALHADORES DESEMPREGADOS E EXCLUIDOS DO ESTADO DO AM",
+		"district": "Pq. DAS LARANJEIRAS - III ETAPA",
+		"address": "R. BARAO DO RIO BRANCO, 02",
+		"lat_long": "-3.1064093,-60.0264297",
+		"material": "Papel, Bateria, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Joinville / SC",
+		"postal_code": "89225795",
+		"name": "Associação Ecológica dos Catadores e Recicladores de Joinville",
+		"district": "Aventureiro",
+		"address": "Avenida Miguel Alves Castanha, 359",
+		"lat_long": "-26.2456517,-48.8036443",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Viamão / RS",
+		"postal_code": "94510-020",
+		"name": "Associação Ecológica Passo  Dorneles",
+		"district": "Vila Augusta Maneguini",
+		"address": "Rua Osvaldo de Godoy Gomes, 436",
+		"lat_long": "-30.088358,-51.0237895",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Mesquita / RJ",
+		"postal_code": "26560543",
+		"name": "Associação Esperança de Trabalhadores Coletores de Recicláveis de Mesq",
+		"district": "Santo Elias",
+		"address": "Rua Josefina 489",
+		"lat_long": "-22.7757767,-43.4238403",
+		"material": "Plástico, Metal, Papel, Longa Vida, Óleo"
+	},
+	{
+		"city": "Severinia / SP",
+		"postal_code": "14735000",
+		"name": "Associacao Grupo Amigos Voluntarios de Severinia",
+		"district": "Cohab 04",
+		"address": "Rua Joao Molina Romero 76",
+		"lat_long": "-20.8083404,-48.8042955",
+		"material": "Pilha"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90810240",
+		"name": "Associação MDM",
+		"district": "Centro",
+		"address": "Rua Padre Cacique, 1391",
+		"lat_long": "-30.0619251,-51.2311268",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Tecido, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Recife / PE",
+		"postal_code": "52061020",
+		"name": "associação meio ambiente preservar e educar",
+		"district": "POÇO",
+		"address": "Rua Eng. Oscar Ferreira,338 - Poço.",
+		"lat_long": "-8.0353286,-34.924474",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Caetano do Sul / SP",
+		"postal_code": "09541100",
+		"name": "Associação Politeuo",
+		"district": "Santa Paula",
+		"address": "Rua São Paulo, 1479",
+		"lat_long": "-23.6219622,-46.5669953",
+		"material": "Plástico, Metal, Papel, Vidro, Eletrônicos"
+	},
+	{
+		"city": "São Bernardo do Campo / SP",
+		"postal_code": "09632-050",
+		"name": "Associação Raio de Luz",
+		"district": "Vivaldi",
+		"address": "Rua Guilherme de Almeida , 150",
+		"lat_long": "-23.689584,-46.5647381",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Bernardo do Campo / SP",
+		"postal_code": "",
+		"name": "Associação Refazendo",
+		"district": "Bairro Assunção",
+		"address": "Rua Batuíra, 256",
+		"lat_long": "-23.717316,-46.5745663",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90650-001",
+		"name": "Associação São Pedro Cidadão",
+		"district": "Partenon",
+		"address": "Rua Bento Gonçalves , 2440",
+		"lat_long": "-30.0605479,-51.1908042",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Araucária / PR",
+		"postal_code": "83705250",
+		"name": "Associação de Materiais Recicláveis Verde Vida",
+		"district": "Estação",
+		"address": "Rua Otávio Munhores Santiago, 295",
+		"lat_long": "-25.5874164,-49.4049891",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Goiania / GO",
+		"postal_code": "74563230",
+		"name": "Associação de Material Reciclável Beija Flor",
+		"district": "setor criméia oeste",
+		"address": "Rua Jõao Luiz de Almeida qd 05 lot 11/12",
+		"lat_long": "-16.6487242,-49.2630475",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90030-040",
+		"name": "Associação de Mulheres Papeleiras",
+		"district": "",
+		"address": "Rua Coronel Vicente, 444/30",
+		"lat_long": "-30.0278674,-51.2208749",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95095440",
+		"name": "Associação de Recicladores Arca",
+		"district": "Consolação",
+		"address": "Rua Valter Carlos Afonso, 591",
+		"lat_long": "-29.1678244,-51.179383",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Bento Gonçalves / RS",
+		"postal_code": "95700-000",
+		"name": "Associação de Recicladores Chico Mendes",
+		"district": "",
+		"address": "Rua José Pozzamai, 34",
+		"lat_long": "-29.1738991,-51.5185113",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95095440",
+		"name": "Associação de Recicladores Consolação",
+		"district": "Consolação",
+		"address": "Rua Ernesto Schimit, 251",
+		"lat_long": "-29.1678244,-51.179383",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Charqueadas / RS",
+		"postal_code": "",
+		"name": "ASSOCIAÇÃO DE RECICLADORES DE CHARQUEADAS",
+		"district": "Distrito Industrial",
+		"address": "Rua Projetada S/N",
+		"lat_long": "-29.9551124,-51.62524",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Três Pontas / MG",
+		"postal_code": "",
+		"name": "Associação Trespontana de Catadores de Materiais Recicláveis - ATREMAR",
+		"district": "",
+		"address": "Av. Pref. Nilson Vilela, 1188",
+		"lat_long": "-21.3711962,-45.5116492",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Campo Largo / PR",
+		"postal_code": "",
+		"name": "Associação Unidos da Reciclagem - ASSUR",
+		"district": "Bom Jesus",
+		"address": "Rodovia BR 277 Km 25 n.º 608",
+		"lat_long": "-25.4530785,-49.5494505",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Bento Gonçalves / RS",
+		"postal_code": "95700-000",
+		"name": "Associação de Recicladores Jardim Glória",
+		"district": "Glória",
+		"address": "Rua José de Gaspari, 90",
+		"lat_long": "-29.1731301,-51.5302318",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Palmeira / PR",
+		"postal_code": "84130000",
+		"name": "Associação de Recicladores Nossa Senhora do Rocio",
+		"district": "Rocio II",
+		"address": "Rua Nair Alves Ramos, s/n",
+		"lat_long": "-25.434237,-49.9999265",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95110440",
+		"name": "Associação de Recicladores Nova Manhã",
+		"district": "Desvio Rizzo",
+		"address": "Rua das Rosas, 1485",
+		"lat_long": "-29.1678244,-51.179383",
+		"material": "Metal, Papel, Vidro, Longa Vida, Tubo Dental, Madeira"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95032300",
+		"name": "Associação de Recicladores Reolon",
+		"district": "Reolon",
+		"address": "Travessão Thompsom Flores, 330",
+		"lat_long": "-29.1678244,-51.179383",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95041-000",
+		"name": "Associação de Recicladores Serrano",
+		"district": "Serrano",
+		"address": "Travessão Leopoldina, 1303",
+		"lat_long": "-29.1203372,-51.1230615",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "União da Vitória / PR",
+		"postal_code": "84600-000",
+		"name": "Associação de Reciclagem",
+		"district": "",
+		"address": "Rua das Orquídeas, 110",
+		"lat_long": "-26.1959652,-51.0895178",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "petrolandia / PE",
+		"postal_code": "56460000",
+		"name": "Associação de Reciclagem Biologica",
+		"district": "qd 08",
+		"address": "AV SABINO COSTA 400",
+		"lat_long": "-9.0699572,-38.2818165",
+		"material": "Plástico, Pneu, Papel, Vidro"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "91250330",
+		"name": "Associação de Reciclagem Ecolôgica  Rubem Berta",
+		"district": "",
+		"address": "Estrada Antônio Severino, 1317, Rubem Berta",
+		"lat_long": "-30.0233647,-51.0974701",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Recife / PE",
+		"postal_code": "50070550",
+		"name": "Centro de Articulacao Retome sua Vida",
+		"district": "Boa Vista",
+		"address": "Rua dos Coelhos 317 (sede)",
+		"lat_long": "-8.0618856,-34.8886242",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "campo largo / PR",
+		"postal_code": "83602160",
+		"name": "centro de integraçao ao menor",
+		"district": "aguas claras",
+		"address": "r jose de paiva vidal 2800",
+		"lat_long": "-25.4590406,-49.5319994",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Londrina / PR",
+		"postal_code": "86010-000",
+		"name": "CEPEVE Central de Pesagem e Vendas das ONG´s de Londrina",
+		"district": "Vila Brasil",
+		"address": "Rua Paraguai, 709",
+		"lat_long": "-23.3280252,-51.1487959",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Afogados da Ingazeira / PE",
+		"postal_code": "",
+		"name": "CERALPA",
+		"district": "Barra",
+		"address": "PE 320 s/m km 1",
+		"lat_long": "-7.7422891,-37.6316504",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro"
+	},
+	{
+		"city": "Foz do Iguaçu / PR",
+		"postal_code": "85867500",
+		"name": "COAAFI -Centro de Triagem do Porto Belo",
+		"district": "Aterro Sanitário Porto Belo",
+		"address": "R. Angela Aparecida de Andrade , 271",
+		"lat_long": "-25.5468978,-54.5881716",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Queimados / RJ",
+		"postal_code": "26385020",
+		"name": "COARE-QM Cooperativa de Coleta Seletiva Aproveitamento de Residuos Sóo",
+		"district": "Vila Camarim",
+		"address": "Av. Plinio Giosa, nº 300",
+		"lat_long": "-22.6992625,-43.5687769",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tubo Dental, Óleo, Madeira, Matéria Orgânica, Borracha"
+	},
+	{
+		"city": "Nova Esperança / PR",
+		"postal_code": "87600000",
+		"name": "Cocamare",
+		"district": "vila garça",
+		"address": "rua doutor murici -306",
+		"lat_long": "-23.1969305,-52.2213227",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Apucarana / PR",
+		"postal_code": "86800580",
+		"name": "COCAP - Cooperativa de Catadores de Materiais Recicláveis de Apucarana",
+		"district": "Barra Funda",
+		"address": "Travessa Palmeiras, 111",
+		"lat_long": "-23.5515189,-51.4613781",
+		"material": "Plástico, Metal, Papel, Bateria, Longa Vida"
+	},
+	{
+		"city": "Santos / SP",
+		"postal_code": "11080-680",
+		"name": "COLLIS - Cooperartiva do Lixo Limpo Santista",
+		"district": "Jardim",
+		"address": "Av. Alvaro Guimarães, 83",
+		"lat_long": "-23.9618356,-46.3322474",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Itu / SP",
+		"postal_code": "13300000",
+		"name": "COMAREI - Cooperativa de Materiais Recicláveis de Itu",
+		"district": "Jd. São Judas Tadeu",
+		"address": "R.Astro Sintra, 80",
+		"lat_long": "-23.2850325,-47.2705427",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "São Vicente / SP",
+		"postal_code": "11380220",
+		"name": "Comares Cooperativa de Catadores de São Vicente",
+		"district": "Vila São Jorge",
+		"address": "Av Divisória nº.358",
+		"lat_long": "-23.9520266,-46.3694959",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "",
+		"name": "COMARP (Comunidade Associada para Reciclagem na Pampulha)",
+		"district": "São Francisco",
+		"address": "R. Caldas da Rainha, 2083",
+		"lat_long": "-19.880419,-43.9603923",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de janeiro / RJ",
+		"postal_code": "21854002",
+		"name": "comitra",
+		"district": "Bangu",
+		"address": "Guandu do Sena 5540",
+		"lat_long": "-22.8447142,-43.5186264",
+		"material": "Plástico, Papel, Óleo"
+	},
+	{
+		"city": "Rio de janeiro / RJ",
+		"postal_code": "21854002",
+		"name": "Comitra",
+		"district": "Bangu",
+		"address": "estrada guandu do sena,5540 casa 3",
+		"lat_long": "-22.883333,-43.466667",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Óleo, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Petrópolis / RJ",
+		"postal_code": "25615002",
+		"name": "Comunidade Esperança Sociedade e Reciclagem",
+		"district": "Centro",
+		"address": "Rua Casimiro de Abreu, 272",
+		"lat_long": "-22.5046388,-43.1823294",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40035-070",
+		"name": "Associação Comunitária Tenda de Olorum",
+		"district": "Massaranduba",
+		"address": "Rua Lopes Trovão, 111 c",
+		"lat_long": "-12.9276296,-38.5003849",
+		"material": "Plástico, Papel"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90220060",
+		"name": "Associação Cristóvão Colombo",
+		"district": "Floresta",
+		"address": "Rua Câncio Gomes, 786",
+		"lat_long": "-30.0195531,-51.2053626",
+		"material": "Plástico, Metal, Pneu, Papel, Longa Vida, Lâmpadas, Matéria Orgânica"
+	},
+	{
+		"city": "Palmeiras / BA",
+		"postal_code": "",
+		"name": "Associação cultural e socioambientalvelhochico",
+		"district": "campos de são joão",
+		"address": "vl de campos de são joão 20",
+		"lat_long": "-12.5299089,-41.5750864",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Paula Freitas / PR",
+		"postal_code": "84630-000",
+		"name": "Associação de Agentes Ecológicos Recicladores ECOSUL",
+		"district": "Centro",
+		"address": "Rua Padre Justino Pacionista, 569",
+		"lat_long": "-26.192721,-50.9241848",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Santos / SP",
+		"postal_code": "11013-152",
+		"name": "Associação de Carrinheiros de Santos",
+		"district": "Paquetá",
+		"address": "Rua Amador Buento,4466",
+		"lat_long": "-23.9375181,-46.3197772",
+		"material": "Metal, Papel, Vidro"
+	},
+	{
+		"city": "Ananindeua / PA",
+		"postal_code": "67118120",
+		"name": "Associação de Catadores Aguas Lindas",
+		"district": "Águas Lindas",
+		"address": "Rua Benedito 51",
+		"lat_long": "-1.3880937,-48.3945228",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Guarapari / ES",
+		"postal_code": "29707130",
+		"name": "Associação de Catadores de Materiais de Guarapari  - ASCAMARGE",
+		"district": "Marista",
+		"address": "Rua 11 s/n",
+		"lat_long": "-20.6503933,-40.5070247",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Nova Esperança / PR",
+		"postal_code": "87600-000",
+		"name": "Associação de Catadores de Materiais Recicláveis",
+		"district": "Centro",
+		"address": "Rua Dr. Murici, s/n",
+		"lat_long": "-23.1969305,-52.2213227",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Ijuí / RS",
+		"postal_code": "98700000",
+		"name": "Associação de Catadores de Materiais Reciclaveis de Ijuí",
+		"district": "luiz Fogliato",
+		"address": "Rua Afranioi Peixoto ; Nº294",
+		"lat_long": "-28.3677066,-53.9283271",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Porciúncula / RJ",
+		"postal_code": "",
+		"name": "Associação de Catadores de Materiais Recicláveis de Porciúncula",
+		"district": "",
+		"address": "Estrada da Barra, Km4",
+		"lat_long": "-20.9636491,-42.0427584",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Pouso Alegre / MG",
+		"postal_code": "37550000",
+		"name": "Associação de Catadores de Materiais Recicláveis de Pouso Alegre",
+		"district": "Morumbi",
+		"address": "Rua José Nunes Maia, 140",
+		"lat_long": "-22.2341204,-45.9332569",
+		"material": "Plástico, Pneu, Papel, Pilha, Vidro, Longa Vida, Lâmpadas"
+	},
+	{
+		"city": "Nova Friburgo / RJ",
+		"postal_code": "28613-001",
+		"name": "Associação de Catadores de Nova Friburgo",
+		"district": "Centro",
+		"address": "Av. Alberto Braune, 113",
+		"lat_long": "-22.2871356,-42.5336979",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio Grande / RS",
+		"postal_code": "96202600",
+		"name": "Associação de Catadores e Separadores de Lixo de Rio Grande",
+		"district": "Centro",
+		"address": "Rua Lino Neves, 790",
+		"lat_long": "-32.0319414,-52.0996074",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Madeira"
+	},
+	{
+		"city": "Recife / PE",
+		"postal_code": "51160400",
+		"name": "Associação de Catadores o verde é a nossa vida",
+		"district": "Imbiribeira",
+		"address": "Rua Alameda das Hortênsias",
+		"lat_long": "-8.1158889,-34.9076094",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Longa Vida, Tubo Dental, Óleo, Madeira, Borracha"
+	},
+	{
+		"city": "Paracatu / MG",
+		"postal_code": "",
+		"name": "Associação de Catadores Paracatu Recicla",
+		"district": "",
+		"address": "Rua Manoel Caetano, 323",
+		"lat_long": "-17.219295,-46.8731665",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "30110-140",
+		"name": "ASMARE - Associação dos Catadores de Papel, Papelão e Material Reaprov",
+		"district": "",
+		"address": "Av Contorno, 10555",
+		"lat_long": "-19.9174662,-43.9541806",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Araruama / RJ",
+		"postal_code": "28970-000",
+		"name": "ASPERGILUS",
+		"district": "Centro",
+		"address": "Av. Nilo Peçanha, 384",
+		"lat_long": "-22.7857322,-43.3162857",
+		"material": "Papel"
+	},
+	{
+		"city": "Caruaru / PE",
+		"postal_code": "55036-525",
+		"name": "ASPROMA - Associação dos Protetores do Meio Ambiente",
+		"district": "Kennedy",
+		"address": "Rua Dom Augusto Carvalho, s/n - Vila Diocesana",
+		"lat_long": "-8.2808101,-35.9754429",
+		"material": "Plástico, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "PORTO VELHO / RO",
+		"postal_code": "78919290",
+		"name": "ASPROVEL",
+		"district": "TIRADENTES",
+		"address": "RUA OSVALDO MOURA N7775",
+		"lat_long": "-8.7566754,-63.8414748",
+		"material": "Plástico"
+	},
+	{
+		"city": "São José do Rio Pardo / SP",
+		"postal_code": "",
+		"name": "Ass. Catadores São José Recicla",
+		"district": "",
+		"address": "Sitio Brejinho, km350",
+		"lat_long": "-21.5955445,-46.8883467",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Brasilândia / MS",
+		"postal_code": "79670000",
+		"name": "ASSOBRA- Associação Brasilandense de Agentes Ambientais",
+		"district": "",
+		"address": "Av. São José, 145 J.A",
+		"lat_long": "-21.2586369,-52.037753",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Espírito Santo do Pinhal / SP",
+		"postal_code": "",
+		"name": "Assoc. Catad. Mater. Rec. Espírito Santo do Pinhal",
+		"district": "Distrito Industrial",
+		"address": "Rodovia SP 342 km 199",
+		"lat_long": "-23.0011,-47.1117247",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Serra Talhada / PE",
+		"postal_code": "56909520",
+		"name": "Assoc. Comunitária Desenv. Ambiental e Social Serra Talhada - ACDASST",
+		"district": "José Tomé Souza",
+		"address": "R. Inácio José Felipe, s/n Q5 lote21a",
+		"lat_long": "-7.9841042,-38.2933356",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Almirante Tamandaré / PR",
+		"postal_code": "",
+		"name": "Assoc. Reciclar e Limpar",
+		"district": "Pq São Jorge",
+		"address": "Av. Antonio Johnson, 93",
+		"lat_long": "-25.3139749,-49.3027683",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Borracha"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "90220340",
+		"name": "Assoc. Triadores RECICLANDO PELA VIDA",
+		"district": "Floresta",
+		"address": "R Dr Julio Olszewsky, 01",
+		"lat_long": "-30.0168433,-51.2082234",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "69005330",
+		"name": "Associação ALIANÇA",
+		"district": "",
+		"address": "Rua Frei Jose dos Inocentes, n.º 403",
+		"lat_long": "-3.1064093,-60.0264297",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Uberlândia / MG",
+		"postal_code": "38412174",
+		"name": "Associação amigos do corrego bons olhos",
+		"district": "cidade jardim",
+		"address": "rua dos miosotis 62",
+		"lat_long": "-18.9481993,-48.3059265",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Lâmpadas"
+	},
+	{
+		"city": "Júlio de Castilhos / RS",
+		"postal_code": "98130000",
+		"name": "Associação Castilhense de Seleção de Materiais",
+		"district": "",
+		"address": "BR 158 km 3",
+		"lat_long": "-29.1904999,-53.6781147",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Ilhabela / SP",
+		"postal_code": "11650000",
+		"name": "Associação Centro de Triagem de Materais Recicláveis",
+		"district": "",
+		"address": "Rua Pedro Vieira s/nº",
+		"lat_long": "-23.7786578,-45.3583967",
+		"material": "Plástico, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Porto Alegre / RS",
+		"postal_code": "91793-360",
+		"name": "Associação Comunitária do Campo da Tuca",
+		"district": "Partenon",
+		"address": "Rua D, 200",
+		"lat_long": "-30.0708282,-51.1736325",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Bernardo do Campo / SP",
+		"postal_code": "09831-650",
+		"name": "Associação Verdade e Luz",
+		"district": "Assunção",
+		"address": "Rua Francisco Vicentainer,438",
+		"lat_long": "-23.7162698,-46.5787043",
+		"material": "Plástico, Metal, Pneu, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Caxias do Sul / RS",
+		"postal_code": "95043290",
+		"name": "Associação Vida Nova",
+		"district": "Fátima",
+		"address": "Rua Giacomo Zatti, 1738",
+		"lat_long": "-29.1456471,-51.1759578",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "",
+		"name": "Associação Vira Lata",
+		"district": "Jaraguá",
+		"address": "Av. Jornalista Paulo Zingg, 1381",
+		"lat_long": "-23.4816976,-46.7693687",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Óleo"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "30190290",
+		"name": "ASSOCIRECICLE (Associação dos Recicladores de Belo Horizonte)",
+		"district": "Barro Preto",
+		"address": "R. Araguari, 12",
+		"lat_long": "-19.918314,-43.9480248",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Almirante Tamandaré / PR",
+		"postal_code": "",
+		"name": "ASSOL - Assoc. Solução Ambiental de Catadores",
+		"district": "Jd Roma",
+		"address": "R. Aides Angelo de Oliveira, 183 - esq R. Quatro Barras",
+		"lat_long": "-25.3139749,-49.3027683",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Borracha"
+	},
+	{
+		"city": "Belo Horizonte / MG",
+		"postal_code": "31360-290",
+		"name": "ASTEMARP",
+		"district": "",
+		"address": "Rua Beira Mar, 418",
+		"lat_long": "-19.8728337,-44.0145095",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Santa Maria / DF",
+		"postal_code": "71000-000",
+		"name": "ASTRADASM",
+		"district": "Chácara 2",
+		"address": "Av. Alagados, CL 114",
+		"lat_long": "-16.0190985,-47.8624914",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro"
+	},
+	{
+		"city": "Ibiritê / MG",
+		"postal_code": "32400000",
+		"name": "ASTRAPI - Associação de Trabalhadores com Papel, Papelão e Materiais R",
+		"district": "Nova Esperança",
+		"address": "Av. São Paulo, 590",
+		"lat_long": "-20.3007061,-40.4038746",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Nova Era / MG",
+		"postal_code": "35920000",
+		"name": "ASTRINE - Associação dos Triadores de Materiais Recicláveis de Nova Er",
+		"district": "Das Graças",
+		"address": "Avenida Copacabana 1304",
+		"lat_long": "-19.7529954,-43.0271616",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "22620110",
+		"name": "BARRACOOP",
+		"district": "Barra da Tijuca",
+		"address": "Av. Ministro Ivan Lins s/nº",
+		"lat_long": "-23.0106855,-43.3014219",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Rio de Janeiro / RJ",
+		"postal_code": "22620-110",
+		"name": "BARRACOPE",
+		"district": "Barra da Tijuca",
+		"address": "Av. Min. Ivan Lins, s/n",
+		"lat_long": "-23.0106855,-43.3014219",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "05400-000",
+		"name": "Boa Esperança",
+		"district": "São Mateus",
+		"address": "Rua João Cristiniano Soares, 20",
+		"lat_long": "-23.6015546,-46.4520113",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "São Paulo / SP",
+		"postal_code": "02352-140",
+		"name": "Bortolândia",
+		"district": "Bortolândia",
+		"address": "Rua Vicente Luiz de Brito, 151",
+		"lat_long": "-23.5489433,-46.6388182",
+		"material": "Plástico, Metal, Papel, Bateria"
+	},
+	{
+		"city": "Araguari / MG",
+		"postal_code": "38445-900",
+		"name": "ASCAMARA - Associação do Catadores de Materiais Recicláveis de Araguar",
+		"district": "Independência",
+		"address": "Rua 17 n° 100",
+		"lat_long": "-18.6470657,-48.1827132",
+		"material": "Plástico, Metal, Papel, Bateria, Longa Vida"
+	},
+	{
+		"city": "Vitória / ES",
+		"postal_code": "29075120",
+		"name": "ASCAMARE",
+		"district": "Goiabeiras",
+		"address": "Rua Pedro de Piant , 75",
+		"lat_long": "-20.2594559,-40.2890769",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Palmas / TO",
+		"postal_code": "",
+		"name": "ASCAMP",
+		"district": "",
+		"address": "405 Norte, alameda 08, lote 02",
+		"lat_long": "-10.2269855,-48.3269638",
+		"material": "Eletrônicos"
+	},
+	{
+		"city": "Pará de Minas / MG",
+		"postal_code": "",
+		"name": "ASCAMP",
+		"district": "",
+		"address": "",
+		"lat_long": "-19.8601382,-44.6076585",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Teófilo Otoni / MG",
+		"postal_code": "",
+		"name": "ASCANOVI",
+		"district": "Olga Corrêa",
+		"address": "R. Engenheiro Celso Murta, 249",
+		"lat_long": "-17.8521128,-41.5140968",
+		"material": "Plástico, Metal, Papel, Vidro, Óleo"
+	},
+	{
+		"city": "Nova Lima / MG",
+		"postal_code": "34000-000",
+		"name": "ASCAP",
+		"district": "",
+		"address": "Rua Joaquim Henrique, 130",
+		"lat_long": "-23.641844,-46.6576234",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Betim / MG",
+		"postal_code": "",
+		"name": "ASCAPEL - Associação dos Catadores de Papel, Papelão e Materiais Reapr",
+		"district": "Laranjeiras",
+		"address": "R. Panamá, 50",
+		"lat_long": "-19.9206424,-44.0910491",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Tecido, Madeira, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Carlos Chagas / MG",
+		"postal_code": "39864000",
+		"name": "ASCATA- Associação de Materiais Reciclaveis da Carlos Chagas",
+		"district": "Cruzeiro",
+		"address": "Praça São José  s/n",
+		"lat_long": "-17.7034666,-40.7650558",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Brumadinho / MG",
+		"postal_code": "35460000",
+		"name": "ASCAVAPE - Associação dos Catadores de Brumadinho",
+		"district": "Progresso 2",
+		"address": "Avenida Inhotim, 641",
+		"lat_long": "-20.1181823,-44.2009502",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Vila Velha / ES",
+		"postal_code": "29108360",
+		"name": "ASCAVIVE - Associação de Catadores de Vilha Velha",
+		"district": "Jardim Itapoã",
+		"address": "Rua Amoreira, 07",
+		"lat_long": "-20.3427433,-40.2928373",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Salvador / BA",
+		"postal_code": "40435570",
+		"name": "ASCOMPITA ASSOCIAÇAO COMUNITARIA SOS MONT SERRAT DA PENINSULA ITAPAGIP",
+		"district": "massaranduba",
+		"address": "DR MARIO AUGOSTO TEIXEIRA DE FEITAS N 4",
+		"lat_long": "-12.9255943,-38.4981321",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tinta, Lâmpadas, Tecido, Óleo, Madeira, Matéria Orgânica, Eletrônicos, Borracha"
+	},
+	{
+		"city": "Parintins / AM",
+		"postal_code": "",
+		"name": "ASCORPIN (Asseguração dos Coletores de Resíduos de Parintins",
+		"district": "Centro",
+		"address": "Av. Nações Unidas, s/n",
+		"lat_long": "-2.6283475,-56.7364711",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Itapira / SP",
+		"postal_code": "13970000",
+		"name": "Ascorsi - Associação dos Coletores de Residuos Solidos de itapira",
+		"district": "São Vicente",
+		"address": "Rua da Penha  , 840",
+		"lat_long": "-20.3758112,-40.4128323",
+		"material": "Plástico, Metal, Pneu, Papel, Pilha, Bateria, Vidro, Longa Vida, Tubo Dental, Tecido, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Contagem / MG",
+		"postal_code": "32145180",
+		"name": "ASMAC - Associação dos Catadores de Materiais Recicláveis de Contagem",
+		"district": "Presidente Kennedy",
+		"address": "R. Três, 85/105",
+		"lat_long": "-19.9717411,-44.0367059",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Itapiranga / SC",
+		"postal_code": "97050320",
+		"name": "ASMAR - Associação de Selecionadores de Materiais Recicláveis",
+		"district": "Nossa Senhora de Lourdes",
+		"address": "Rua Israel Seligman, s/n",
+		"lat_long": "-27.1710136,-53.7098622",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Madeira"
+	},
+	{
+		"city": "Realeza / PR",
+		"postal_code": "85770-000",
+		"name": "APARA - Associação de Apoio aos Agentes",
+		"district": "Centro",
+		"address": "Av. Rubens Cesar Caselani , 2757",
+		"lat_long": "-25.78032,-53.5436001",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Chapecó / SC",
+		"postal_code": "89806700",
+		"name": "Aparas Chapecó",
+		"district": "Pinheirinho",
+		"address": "Rua São Pedro23/50 - D",
+		"lat_long": "-27.0869858,-52.5919079",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Foz do Iguaçu / PR",
+		"postal_code": "85859360",
+		"name": "ARAFOZ - Associação de Recicladores de Foz do Iguaçu",
+		"district": "Portal da Foz",
+		"address": "Rua Muaguari, 629",
+		"lat_long": "-25.5468978,-54.5881716",
+		"material": "Plástico, Metal, Papel, Longa Vida"
+	},
+	{
+		"city": "Camaragibe / PE",
+		"postal_code": "54777190",
+		"name": "ARATAC – Associação de Reciclagem Ambiental do Timbi e Alberto Maia em",
+		"district": "Alberto Maia",
+		"address": "Rua Nelson Rodrigues, 208",
+		"lat_long": "-8.0204422,-34.9817179",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Esteio / RS",
+		"postal_code": "93295010",
+		"name": "ARCA - Associação dos Recicladores e Catadores de Esteio",
+		"district": "Três Marias",
+		"address": "R. Luis Pasteur, 72/75",
+		"lat_long": "-29.8611279,-51.1809444",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Cruzeiro do Oeste / PR",
+		"postal_code": "87400000",
+		"name": "ARCO – ASSOCIAÇÃO DOS TRABALHADORES DE MATERIAIS RECICLÁVEIS DE CRUZEI",
+		"district": "SUL BRASILEIRA II",
+		"address": "RODOVIA PR 323, KM 131",
+		"lat_long": "-23.7851905,-53.0734152",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Florianópolis / SC",
+		"postal_code": "88034900",
+		"name": "AREsp - Associação de Recicladores Esperança",
+		"district": "Monte Cristo",
+		"address": "Rodovia SC404, snº",
+		"lat_long": "-27.5969039,-48.5494544",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "PAULO AFONSO / BA",
+		"postal_code": "",
+		"name": "ARPA - ALTERNATIVA RECICLAGEM DE PAULO AFONSO",
+		"district": ".",
+		"address": "ESTRADA DO MATADOURO MUNICIPAL DE PAULO AFONSO",
+		"lat_long": "-9.4076294,-38.249349",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Manaus / AM",
+		"postal_code": "",
+		"name": "ARPA – ASSOCIAÇÃO DE RECICLAGEM E PRESERVAÇÃO AMBIENTAL",
+		"district": "Centro",
+		"address": "Rua das andradas , n.º 600-D",
+		"lat_long": "-28.6512659,-56.0004765",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Divinópolis / MG",
+		"postal_code": "35500023",
+		"name": "ASCADI - Associação dos Catadores de Papel, Papelão e Materiais Reapro",
+		"district": "Centro",
+		"address": "Av. do Contorno, 1166",
+		"lat_long": "-20.1393017,-44.8871183",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Lagoa da Prata / MG",
+		"postal_code": "35590000",
+		"name": "ASCALP - Associação de Catadores de Papel , Papelão e Materiais Reapro",
+		"district": "São Francisco",
+		"address": "Rua Ceará 597",
+		"lat_long": "-19.9788476,-45.4883031",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Altinópolis / SP",
+		"postal_code": "14350000",
+		"name": "Ascalt - Associação dos Catadores de Materiais Recicláveis de Altinópo",
+		"district": "Distrito Industrial",
+		"address": "Alameda Altino Ozório de Oliveira, 530",
+		"lat_long": "-21.023827,-47.3714783",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Óleo, Madeira, Eletrônicos"
+	},
+	{
+		"city": "Sete Lagoas / MG",
+		"postal_code": "35700332",
+		"name": "ACMR - Associação dos Catadores de Materiais de Sete Lagoas",
+		"district": "Henrique Nery",
+		"address": "Rua Alcides Fonseca s/n",
+		"lat_long": "-19.4679084,-44.2476509",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Tecido"
+	},
+	{
+		"city": "Paraíso do Norte / PR",
+		"postal_code": "87780000",
+		"name": "Acomarp - Associação dos Coletores de Materiais Recicláveis de Paraíso",
+		"district": "Centro",
+		"address": "Avenida Tapejara, 1041",
+		"lat_long": "-23.2794285,-52.6174525",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro"
+	},
+	{
+		"city": "Goiânia / GO",
+		"postal_code": "74653200",
+		"name": "ACOP (Assoc. de Catadores de Materiais Recicláveis Ordem e Progresso)",
+		"district": "Jd América",
+		"address": "Rua C 121 Qd.213 Lt.14",
+		"lat_long": "-16.7029843,-49.2884308",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tubo Dental, Lâmpadas, Óleo"
+	},
+	{
+		"city": "Araçatuba / SP",
+		"postal_code": "16050-270",
+		"name": "ACREPOM- Associação dos Catadores e Recicladores de Papel e Outros Mat",
+		"district": "Centro",
+		"address": "Rua Rangel Pesta, 512",
+		"lat_long": "-21.2109635,-50.4256554",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Cachoeirinha / RS",
+		"postal_code": "94930-510",
+		"name": "ACRER - Associação dos Classificadores de Resíduos Recicláveis",
+		"district": "Distrito Industrial",
+		"address": "Rua Travessa Gregório , 65",
+		"lat_long": "-29.9476854,-51.0954003",
+		"material": "Plástico, Metal, Papel, Pilha, Vidro, Longa Vida"
+	},
+	{
+		"city": "Mossoró / RN",
+		"postal_code": "59600970",
+		"name": "ACREVI- Associação Comunitária Reciclando para Vida",
+		"district": "",
+		"address": "Rua Dalton Cunha, 478",
+		"lat_long": "-5.176882,-37.3542865",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Natal / RN",
+		"postal_code": "59074410",
+		"name": "ASCAMAR",
+		"district": "",
+		"address": "Rua Bom Jesus, 54",
+		"lat_long": "-5.7717653,-35.1960595",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Londrina / PR",
+		"postal_code": "86075140",
+		"name": "Alumipac",
+		"district": "",
+		"address": "Seimu Oguido 379",
+		"lat_long": "-23.2891956,-51.1693531",
+		"material": "Vidro"
+	},
+	{
+		"city": "Ibirubá / RS",
+		"postal_code": "98200-000",
+		"name": "AMA- Agentes do Meio Ambiente Cooperativa",
+		"district": "",
+		"address": "Av. Brasil, 1599",
+		"lat_long": "-28.640475,-53.0954092",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Vitória / ES",
+		"postal_code": "",
+		"name": "AMARIV",
+		"district": "Bairro Itararé",
+		"address": "R. Dr. Arlindo Sodré, 686",
+		"lat_long": "-20.293548,-40.3057361",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Ipatinga / MG",
+		"postal_code": "35160000",
+		"name": "Amavale - Ass. dos Catadores de Mat. Reciclável do Vale do Aço",
+		"district": "Veneza II",
+		"address": "Av. Londrina, 420",
+		"lat_long": "-19.4681653,-42.5371022",
+		"material": "Plástico, Metal, Papel, Vidro, Óleo"
+	},
+	{
+		"city": "Brasilia / DF",
+		"postal_code": "71095001",
+		"name": "AMBIENTE-Associação dos Ambientalistas da Vila Estrutural",
+		"district": "Vila Estrutural",
+		"address": "chacara 258  - Lixão da Estrutural",
+		"lat_long": "-15.826691,-47.9218204",
+		"material": "Plástico, Metal, Pneu, Papel, Vidro, Lâmpadas, Madeira"
+	},
+	{
+		"city": "Americana / SP",
+		"postal_code": "",
+		"name": "Americlage",
+		"district": "São Vito",
+		"address": "Rua Santa Joana dark, 249",
+		"lat_long": "-22.7387884,-47.3319134",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Pindamonhangaba / SP",
+		"postal_code": "12400-000",
+		"name": "APAE- Centro de Reciclagem Santa Cecília",
+		"district": "Santa Cecília",
+		"address": "Av Manoel César Ribeiro, 1305",
+		"lat_long": "-22.9235903,-45.4597836",
+		"material": "Plástico, Metal, Papel, Pilha, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Xaxim / SC",
+		"postal_code": "89825-000",
+		"name": "APAE- Xaxim",
+		"district": "",
+		"address": "Rua Avelino Lenardi, 247",
+		"lat_long": "-26.9687111,-52.537821",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Igarapé / MG",
+		"postal_code": "",
+		"name": "APAIG - Associação dos Catadores de Materiais Recicláveis de Igarapé",
+		"district": "Padre Eustáquio",
+		"address": "R. B, 55",
+		"lat_long": "-19.9585033,-44.3445622",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida, Tinta, Óleo, Eletrônicos"
+	},
+	{
+		"city": "Maracaju / MS",
+		"postal_code": "79150000",
+		"name": "Associação dos Catadores de Materiais Recicláveis de Maracaju",
+		"district": "Centro",
+		"address": "Av",
+		"lat_long": "-21.6188771,-55.167328",
+		"material": "Plástico, Metal, Papel, Vidro, Tubo Dental"
+	},
+	{
+		"city": "Governador Valadares / MG",
+		"postal_code": "",
+		"name": "Associação dos Catadores de Materiais Recicláveis Natureza Viva - ASCA",
+		"district": "Turmalina",
+		"address": "Br 116, KM 415",
+		"lat_long": "-18.8971645,-41.9557454",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Curitiba / PR",
+		"postal_code": "81020590",
+		"name": "Associação dos Catadores de Materiais Recicláveis VIDA NOVA",
+		"district": "Capão Raso",
+		"address": "R. Hellen Keller, 118",
+		"lat_long": "-25.4963654,-49.2774384",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "CAMPOS SALES / CE",
+		"postal_code": "63150000",
+		"name": "ASSOCIAÇÃO DOS CATADORES DE MATERIAL RECICLÁVEL DE CAMPOS SALES.",
+		"district": "CENTRO",
+		"address": "AVENIDA 07 DE SETEMBRO, s/n.",
+		"lat_long": "-7.0783276,-40.3762574",
+		"material": "Plástico, Metal, Papel, Borracha"
+	},
+	{
+		"city": "Jau / SP",
+		"postal_code": "17207050",
+		"name": "AsSOCIAÇÃO DOS CATADORES DE PAPEL DE JAÚ - ACAP",
+		"district": "VILA HISLT",
+		"address": "R",
+		"lat_long": "-22.2895924,-48.5546304",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida"
+	},
+	{
+		"city": "Dois Córregos / SP",
+		"postal_code": "17300000",
+		"name": "Associação dos Catadores de Recicláveis",
+		"district": "Núcleo Habitacional Eugênio Francisconi",
+		"address": "Rua José Iraldi Violi, 795",
+		"lat_long": "-22.3661742,-48.3800965",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Barra do Choça / BA",
+		"postal_code": "45120000",
+		"name": "Associação dos catadores de residuos solidos - ACRESOL",
+		"district": "",
+		"address": "Rua Jõao Antonio Amorim Nº 175",
+		"lat_long": "-14.8641122,-40.5590647",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Volta Redonda / RJ",
+		"postal_code": "27180000",
+		"name": "Associação dos Catadores de Résiduos Sólidos de Volta Redonda",
+		"district": "Vila Santa Cecília",
+		"address": "Rua 35",
+		"lat_long": "-22.5215107,-44.104349",
+		"material": "Plástico, Metal, Papel, Bateria, Vidro, Longa Vida"
+	},
+	{
+		"city": "Teresina / PI",
+		"postal_code": "64000000",
+		"name": "Associação dos Catadores de Teresina",
+		"district": "",
+		"address": "Rua Gilbuéis , s/n",
+		"lat_long": "-5.0892123,-42.8016275",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental, Matéria Orgânica"
+	},
+	{
+		"city": "Itajubá / MG",
+		"postal_code": "37502454",
+		"name": "Associação dos Catadores Itajubenses de Materiais Recicláveis (ACIMAR)",
+		"district": "São Sebastião",
+		"address": "Av. Padre Lourenço, 3300",
+		"lat_long": "-23.5419739,-46.3976364",
+		"material": "Plástico, Metal, Papel"
+	},
+	{
+		"city": "Porto Xavier / RS",
+		"postal_code": "98995000",
+		"name": "Associação dos Catadores Recicladores de Porto Xavier",
+		"district": "",
+		"address": "Linha Divisa Porto Xavier",
+		"lat_long": "-27.9139448,-55.1380976",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Tubo Dental"
+	},
+	{
+		"city": "Florianópolis / SC",
+		"postal_code": "88010280",
+		"name": "Associação dos Coletores de Materiais Recicláveis",
+		"district": "Centro",
+		"address": "Rua Antonio Pereira Oliveira Neto, s/n",
+		"lat_long": "-27.5975129,-48.5598415",
+		"material": "Plástico, Metal, Papel, Vidro, Longa Vida, Eletrônicos"
+	},
+	{
+		"city": "Pirapora do Bom Jesus / SP",
+		"postal_code": "06550000",
+		"name": "Associação dos Moradores da Barragem de Pirapora e Região - AMBAPIR",
+		"district": "Centro",
+		"address": "Estrada da Barragem, 759",
+		"lat_long": "-23.3974507,-47.0024503",
+		"material": "Plástico, Metal, Papel, Vidro"
+	},
+	{
+		"city": "Alegrete / RS",
+		"postal_code": "97542900",
+		"name": "Associação dos Moradores do Bairro Assumpção",
+		"district": "Assunção",
+		"address": "Av Euripides Brasil Milano, 3060 Bloco 266B, apt 301",
+		"lat_long": "-29.7848016,-55.775657",
+		"material": "Matéria Orgânica"
+	},
+	{
+		"city": "Camaragibe / PE",
+		"postal_code": "54771690",
+		"name": "Associação dos Recicladores de Camaragibe",
+		"district": "Santa Terezinha",
+		"address": "Av. Dr. Luiz Ignácio de Andrade Lima, s/n",
+		"lat_long": "-8.0204422,-34.9817179",
+		"material": "Plástico, Metal, Papel, Vidro"
+	}
+]
