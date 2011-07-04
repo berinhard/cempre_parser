@@ -32,15 +32,6 @@ def updates_coop_dict(coop_dict, map_location):
 
     return dict_
 
-def construct_json_file(filename, coops):
-    print '['
-    for coop in coops:
-        print '\t{'
-        for k, v in coop.items():
-            print u"\t\t%s: %s" % (k, v.decode('ascii'))
-        print '\t},'
-    print ']'
-
 coops = []
 with open('dados_corretos.json', 'r') as fp:
     coops = json.load(fp)
@@ -58,7 +49,5 @@ for coop in coops:
         coop_utf_8 = updates_coop_dict(coop_utf_8, map_location)
         coops_with_lat_lng.append(coop_utf_8)
 
-construct_json_file('saida.json', coops_with_lat_lng)
-
-#print 'Cooperativas parseadas: %d' % len(coops)
-#print 'Cooperativas achadas: %d' % len(coops_with_lat_lng)
+print 'Cooperativas parseadas: %d' % len(coops)
+print 'Cooperativas achadas: %d' % len(coops_with_lat_lng)
